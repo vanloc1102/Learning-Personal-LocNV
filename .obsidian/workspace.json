@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7917945664816109",
+        "id": "f0f15fecf3e9c160",
         "type": "tabs",
         "children": [
           {
-            "id": "5965d1c75150c651",
+            "id": "4b45de39714f395a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-English/Grammar/3. Cách học động từ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Cách học động từ"
             }
           }
         ]
@@ -204,15 +208,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "583354b9c03dd598",
+  "active": "4b45de39714f395a",
   "lastOpenFiles": [
-    "01-Programming/DSA/Problem List.md",
+    "02-English/Vocabulary/allow.md",
+    "02-English/Vocabulary/prevent.md",
+    "02-English/Grammar/3. Cách học động từ.md",
+    "02-English/Vocabulary/Template - ADR 1 1 1 1 1 1 1 1 1.md",
+    "02-English/Grammar/2. Chi tiết về Subject-Finite Verb.md",
+    "02-English/Grammar/1. Cấu tạo của Sentence và Clause.md",
+    "99-Templates/English Grammar Note Template.md",
+    "02-English/Grammar/SENTENCE AND CLAUSE.md",
+    "02-English/Grammar/Template - ADR 1 1 1 1 1 1.md",
     "01-Programming/DSA/Two Pointers/392. Is Subsequence.md",
-    "01-Programming/DSA/Two Pointers",
+    "99-Templates/English Vocabulary Note Template.md",
+    "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays/1929. Concatenation of Array.md",
     "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays/1299. Replace Elements with Greatest Element on Right Side.md",
+    "99-Templates/MOC - System Design.md",
+    "99-Templates/Template - IELTS Speaking Topic.md",
+    "01-Programming/DSA/Problem List.md",
+    "01-Programming/DSA/Two Pointers",
     "01-Programming/DSA/Arrays & Hashing/Hash Usage/242. Valid Anagram.md",
     "01-Programming/DSA/Arrays & Hashing/Hash Usage/217. Contains Duplicate.md",
-    "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays/1929. Concatenation of Array.md",
     "01-Programming/DSA/Arrays & Hashing/Hash Implementation",
     "01-Programming/DSA/Arrays & Hashing/Hash Usage",
     "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays",
@@ -224,20 +240,8 @@
     "Untitled.md",
     "04- Daily Note/Template - ADR 1 1 1.md",
     "03-Work/Case Study/Template - ADR 1 1.md",
-    "02-English/Vocabulary/Template - ADR 1 1 1 1 1 1 1 1 1.md",
     "02-English/IELTS-Writing/Template - ADR 1 1 1 1 1 1 1 1.md",
     "02-English/IELTS-Speaking/Template - ADR 1 1 1 1 1 1 1.md",
-    "02-English/Grammar/Template - ADR 1 1 1 1 1 1.md",
-    "01-Programming/System-Design/Template - ADR 1 1 1 1 1.md",
-    "01-Programming/Java/Template - ADR 1 1 1 1.md",
-    "01-Programming/Database/Template - ADR 1 1 1.md",
-    "01-Programming/AWS/Template - ADR 1 1.md",
-    "00-Inbox/Template - ADR 1.md",
-    "99-Templates/Circuit Breaker.md",
-    "99-Templates/Template - ADR.md",
-    "99-Templates/Template - Case Study.md",
-    "99-Templates/Template - Daily Note.md",
-    "99-Templates/Template - IELTS Speaking Topic.md",
     "_attachments/Pasted Image 20260728161328_322.png",
     "_attachments/Pasted Image 20260728155646_835.png",
     "_attachments/Pasted Image 20260728154636_576.png",
