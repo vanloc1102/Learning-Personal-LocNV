@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f15fecf3e9c160",
+        "id": "32e2a0e60b21f862",
         "type": "tabs",
         "children": [
           {
-            "id": "4b45de39714f395a",
+            "id": "e5615daa67e2ed5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-English/Grammar/3. Cách học động từ.md",
+                "file": "02-English/IELTS-Speaking/Speaking Part 1/Where do you like to go in that area.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Cách học động từ"
+              "title": "Where do you like to go in that area"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336.5
   },
   "right": {
     "id": "741511d0e6c57170",
@@ -208,46 +208,46 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b45de39714f395a",
+  "active": "e5615daa67e2ed5c",
   "lastOpenFiles": [
-    "02-English/Vocabulary/allow.md",
-    "02-English/Vocabulary/prevent.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Do you like the are that you live in.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Where do you like to go in that area.md",
+    "02-English/IELTS-Speaking/Template - ADR 1 1 1 1 1 1 1.md",
+    "02-English/IELTS-Speaking/Speaking Part 1",
+    "02-English/Vocabulary/encourage.md",
+    "02-English/Grammar/4. Cấu trúc câu dùng prep phrase.md",
+    "02-English/Grammar/5. Cách dùng Article (mạo từ).md",
     "02-English/Grammar/3. Cách học động từ.md",
-    "02-English/Vocabulary/Template - ADR 1 1 1 1 1 1 1 1 1.md",
     "02-English/Grammar/2. Chi tiết về Subject-Finite Verb.md",
+    "02-English/Vocabulary/suffer.md",
+    "02-English/Vocabulary/result.md",
+    "02-English/Vocabulary/make.md",
+    "02-English/Vocabulary/find.md",
+    "02-English/Vocabulary/It is.md",
+    "02-English/Vocabulary/avoid.md",
+    "02-English/Vocabulary/advise.md",
+    "02-English/Vocabulary/allow.md",
+    "02-English/Vocabulary/expect.md",
+    "02-English/Vocabulary/prevent.md",
+    "02-English/Vocabulary/admit.md",
+    "02-English/Vocabulary/force.md",
+    "02-English/Vocabulary/Template - ADR 1 1 1 1 1 1 1 1 1.md",
     "02-English/Grammar/1. Cấu tạo của Sentence và Clause.md",
     "99-Templates/English Grammar Note Template.md",
     "02-English/Grammar/SENTENCE AND CLAUSE.md",
     "02-English/Grammar/Template - ADR 1 1 1 1 1 1.md",
     "01-Programming/DSA/Two Pointers/392. Is Subsequence.md",
-    "99-Templates/English Vocabulary Note Template.md",
-    "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays/1929. Concatenation of Array.md",
-    "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays/1299. Replace Elements with Greatest Element on Right Side.md",
-    "99-Templates/MOC - System Design.md",
-    "99-Templates/Template - IELTS Speaking Topic.md",
-    "01-Programming/DSA/Problem List.md",
     "01-Programming/DSA/Two Pointers",
-    "01-Programming/DSA/Arrays & Hashing/Hash Usage/242. Valid Anagram.md",
-    "01-Programming/DSA/Arrays & Hashing/Hash Usage/217. Contains Duplicate.md",
     "01-Programming/DSA/Arrays & Hashing/Hash Implementation",
     "01-Programming/DSA/Arrays & Hashing/Hash Usage",
     "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays",
     "01-Programming/DSA/Arrays & Hashing",
     "01-Programming/DSA",
-    "02-English/Developer English/Prompt.md",
-    "Welcome.md",
-    "START HERE.md",
-    "Untitled.md",
-    "04- Daily Note/Template - ADR 1 1 1.md",
-    "03-Work/Case Study/Template - ADR 1 1.md",
-    "02-English/IELTS-Writing/Template - ADR 1 1 1 1 1 1 1 1.md",
-    "02-English/IELTS-Speaking/Template - ADR 1 1 1 1 1 1 1.md",
     "_attachments/Pasted Image 20260728161328_322.png",
     "_attachments/Pasted Image 20260728155646_835.png",
     "_attachments/Pasted Image 20260728154636_576.png",
     "Excalidraw",
     "02-English/Developer English",
-    "04- Daily Note",
-    "03-Work/Case Study"
+    "04- Daily Note"
   ]
 }
