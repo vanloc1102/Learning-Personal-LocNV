@@ -1,0 +1,4 @@
+- Hands-on **Microservices & Kafka**
+- Hiểu sâu M**ultithreading, Concurrency, Synchronization & Async Programming**
+- Kinh nghiệm với Distributed Systems, Scalability & Performance Optimization
+- Kinh nghiệm RESTful APIs & Frontend–Backend Integration
