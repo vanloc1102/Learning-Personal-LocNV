@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0cdb64fa66a7b5b2",
+        "id": "adec4ff89de69d36",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec33ef7b1cb84ef",
+            "id": "83dbc2bdfb3a697c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-English/Vocabulary/result.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "result"
+              "title": "New tab"
             }
           }
         ]
@@ -208,8 +204,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ec33ef7b1cb84ef",
+  "active": "83dbc2bdfb3a697c",
   "lastOpenFiles": [
+    "02-English/Grammar/6. Adjective clause.md",
+    "02-English/Developer English/Prompt.md",
+    "02-English/Vocabulary/result.md",
     "02-English/Vocabulary/It is.md",
     "01-Programming/Database/Template - ADR 1 1.md",
     "03-Work/Case Study/Case dư thừa index.md",
@@ -226,7 +225,6 @@
     "02-English/Grammar/3. Cách học động từ.md",
     "02-English/Grammar/2. Chi tiết về Subject-Finite Verb.md",
     "02-English/Vocabulary/suffer.md",
-    "02-English/Vocabulary/result.md",
     "02-English/Vocabulary/make.md",
     "02-English/Vocabulary/find.md",
     "02-English/Vocabulary/avoid.md",
@@ -235,8 +233,6 @@
     "02-English/Vocabulary/expect.md",
     "02-English/Vocabulary/prevent.md",
     "02-English/Vocabulary/admit.md",
-    "02-English/Vocabulary/force.md",
-    "02-English/Vocabulary/Template - ADR 1 1 1 1 1 1 1 1 1.md",
     "01-Programming/DSA/Two Pointers",
     "01-Programming/DSA/Arrays & Hashing/Hash Implementation",
     "01-Programming/DSA/Arrays & Hashing/Hash Usage",
