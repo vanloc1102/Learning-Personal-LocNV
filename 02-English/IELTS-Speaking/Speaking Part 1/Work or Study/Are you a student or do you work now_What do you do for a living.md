@@ -1,0 +1,1 @@
+Well, currently I am working as a software developer for a Japanese company based in HCM City. I have been working there for about five years. To be honest, it can be a bit stressful, but I really enjoy this job because there's always something new to learn.

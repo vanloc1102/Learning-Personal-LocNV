@@ -19,4 +19,4 @@ Chi tiết: _For instance… / There's this one thing —…_
 - Cụm ít gặp: **"have everything on my doorstep"** (mọi thứ ngay sát nhà) — rất tự nhiên, gắn đúng chủ đề khu dân cư.
 **Filler chèn được:** _well…_ (đầu câu), _to be honest…_ (trước lý do thật), _actually…_ (khi hé lộ điều bất ngờ).
 
-Yeah, I really do, It's nothing special but it suits me. The main reason is it is a peaceful and quiet place with many trees around, which means I can unwind after a long day. I usually go for a walk in the evening, and there's something about the fresh air that just clears my head. So honestly, I can't see myself moving anytime soon - the hectic city life just isn't for me.
+Yeah, I really do. It's nothing special but it suits me. The main reason is it is a peaceful and quiet place with many trees around, which means I can unwind after a long day. I usually go for a walk in the evening, and there's something about the fresh air that just clears my head. So honestly, I can't see myself moving anytime soon - the hectic city life just isn't for me.

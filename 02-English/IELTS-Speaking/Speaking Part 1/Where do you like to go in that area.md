@@ -20,4 +20,4 @@ Chi tiết: _I tend to… / More often than not, I'll…_
 
 **Filler chèn được:** _probably…_ (khi chọn), _to be honest…_ (trước lý do thật), _actually…_ (khi hé điều bất ngờ).
 
-Probably the park near my place. It's where I often go in the evening. It's a nice green space with plenty of fresh air, which is exactly what I need to unwind after a long day. I usually just walk a couple of laps and let my mind switch off - it's become a bit of a routine now.
+Probably the park near my place — **a spot I often head to** in the evening. **There's plenty of** fresh air and greenery, which is exactly what I need to unwind after a long day. I usually just walk a couple of laps and let my mind switch off, and **that's turned into** a bit of a routine now.
