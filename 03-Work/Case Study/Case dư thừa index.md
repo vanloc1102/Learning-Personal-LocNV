@@ -1,0 +1,4 @@
+constraint uq_login_id unique (login_id) đã tự động ngầm tạo một B-tree index trên cột login_id. Lệnh create index idx_login_id on hotel_accounting (login_id); tạo thêm một index thứ hai có cùng cấu trúc và dữ liệu. Tốn thêm bộ nhớ lưu trữ, lãng phí bộ nhớ đệm (buffer pool), và làm giảm tốc độ các thao tác ghi dữ liệu (INSERT, UPDATE, DELETE) do cơ sở dữ liệu phải cập nhật cả hai index song song.
+giờ mới để ý nó check trùng key kiểu gì cho nhanh, hóa ra nó đánh indexes sẵn.. - để note lại , bữa sau có interview thêm vào check index dư, project cty mình cũng hay gặp trường hợp composite index, kiểu (a,b,c) B+ , thì đủ rồi , lại có index(a), index(a,b) nữa
+
+vậy là được 2 case tối ưu dưa thừa index rồi .. tránh trùng với index ngầm và tránh index con dư thừa với composite index

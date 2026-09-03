@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "adec4ff89de69d36",
+        "id": "b6643ed729bb5b93",
         "type": "tabs",
         "children": [
           {
-            "id": "83dbc2bdfb3a697c",
+            "id": "7757e5147aaf19ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Are you a student or do you work now_What do you do for a living.md",
+                "bFile": "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Are you a student or do you work now_What do you do for a living.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Are you a student or do you work now_What do you do for a living  (Working Tree)"
             }
           }
         ]
@@ -204,19 +208,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "83dbc2bdfb3a697c",
+  "active": "7757e5147aaf19ae",
   "lastOpenFiles": [
+    "03-Work/Case Study/Case dư thừa index.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Where do you like to go in that area.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Do you like the are that you live in.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Are you a student or do you work now_What do you do for a living.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Do you work or study a lot.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Work or Study",
     "02-English/Grammar/6. Adjective clause.md",
     "02-English/Developer English/Prompt.md",
     "02-English/Vocabulary/result.md",
     "02-English/Vocabulary/It is.md",
     "01-Programming/Database/Template - ADR 1 1.md",
-    "03-Work/Case Study/Case dư thừa index.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Where do you like to go in that area.md",
     "02-English/Grammar/A bit of a.md",
     "02-English/Grammar/There’s something about.md",
     "03-Work/JD requirement.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Do you like the are that you live in.md",
     "02-English/IELTS-Speaking/Template - ADR 1 1 1 1 1 1 1.md",
     "02-English/IELTS-Speaking/Speaking Part 1",
     "02-English/Vocabulary/encourage.md",
@@ -231,8 +238,6 @@
     "02-English/Vocabulary/advise.md",
     "02-English/Vocabulary/allow.md",
     "02-English/Vocabulary/expect.md",
-    "02-English/Vocabulary/prevent.md",
-    "02-English/Vocabulary/admit.md",
     "01-Programming/DSA/Two Pointers",
     "01-Programming/DSA/Arrays & Hashing/Hash Implementation",
     "01-Programming/DSA/Arrays & Hashing/Hash Usage",
@@ -243,7 +248,6 @@
     "_attachments/Pasted Image 20260728155646_835.png",
     "_attachments/Pasted Image 20260728154636_576.png",
     "Excalidraw",
-    "02-English/Developer English",
-    "04- Daily Note"
+    "02-English/Developer English"
   ]
 }
