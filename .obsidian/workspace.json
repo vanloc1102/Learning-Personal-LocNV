@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0ab20a2b47c6b64",
+        "id": "be0a757a3eaaeed2",
         "type": "tabs",
         "children": [
           {
-            "id": "f53ff1c92541ad7e",
+            "id": "3e49dc7100a4c71e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-English/IELTS-Listening/2. Framework While dạng Gap-Filling.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. Framework While dạng Gap-Filling"
             }
           }
         ]
@@ -204,43 +208,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d359406f764e5dce",
+  "active": "3e49dc7100a4c71e",
   "lastOpenFiles": [
-    "02-English/IELTS-Speaking/Speaking Part 1/Accommodation/Where do you like to go in that area.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Accommodation/Do you like the are that you live in.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Accommodation",
-    "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Do you work or study a lot.md",
     "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Are you a student or do you work now_What do you do for a living.md",
-    "02-English/Collocation/There’s something about.md",
-    "02-English/Collocation/A bit of a.md",
-    "02-English/Collocation/Have(exert) a negative influence on someone(something).md",
-    "02-English/Collocation",
+    "02-English/IELTS-Listening/2. Framework While dạng Gap-Filling.md",
+    "02-English/IELTS-Listening/1. Framework Pre dạng Gap Filling.md",
     "02-English/Grammar/7. Cách rút gọn Adjective Clause.md",
-    "02-English/Grammar/6. Adjective clause.md",
+    "02-English/IELTS-Listening",
     "03-Work/Case Study/Case dư thừa index.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Accommodation/Do you like the are that you live in.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Accommodation/Where do you like to go in that area.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Do you work or study a lot.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Accommodation",
+    "02-English/Collocation/There’s something about.md",
+    "02-English/Collocation/Have(exert) a negative influence on someone(something).md",
+    "02-English/Collocation/A bit of a.md",
+    "02-English/Collocation",
+    "02-English/Grammar/6. Adjective clause.md",
+    "02-English/Grammar/5. Cách dùng Article (mạo từ).md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Do you like the are that you live in.md",
+    "conflict-files-obsidian-git.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Where do you like to go in that area.md",
     "02-English/IELTS-Speaking/Speaking Part 1/Work or Study",
-    "02-English/Developer English/Prompt.md",
-    "02-English/Vocabulary/result.md",
-    "02-English/Vocabulary/It is.md",
-    "01-Programming/Database/Template - ADR 1 1.md",
+    "02-English/Grammar/A bit of a.md",
+    "02-English/Grammar/There’s something about.md",
     "03-Work/JD requirement.md",
+    "01-Programming/Database/Template - ADR 1 1.md",
     "02-English/IELTS-Speaking/Template - ADR 1 1 1 1 1 1 1.md",
     "02-English/IELTS-Speaking/Speaking Part 1",
     "02-English/Vocabulary/encourage.md",
     "02-English/Grammar/4. Cấu trúc câu dùng prep phrase.md",
-    "02-English/Grammar/5. Cách dùng Article (mạo từ).md",
     "02-English/Grammar/3. Cách học động từ.md",
     "02-English/Grammar/2. Chi tiết về Subject-Finite Verb.md",
     "02-English/Vocabulary/suffer.md",
-    "02-English/Vocabulary/make.md",
-    "02-English/Vocabulary/find.md",
-    "02-English/Vocabulary/avoid.md",
     "01-Programming/DSA/Two Pointers",
     "01-Programming/DSA/Arrays & Hashing/Hash Implementation",
     "01-Programming/DSA/Arrays & Hashing/Hash Usage",
     "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays",
     "01-Programming/DSA/Arrays & Hashing",
-    "01-Programming/DSA",
     "_attachments/Pasted Image 20260728161328_322.png",
     "_attachments/Pasted Image 20260728155646_835.png",
     "_attachments/Pasted Image 20260728154636_576.png"
