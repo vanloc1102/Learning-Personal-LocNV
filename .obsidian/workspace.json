@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d497cafd4fd9273a",
+        "id": "28794e733a6578bb",
         "type": "tabs",
         "children": [
           {
-            "id": "92408bb8839e2c90",
+            "id": "02e1504e08d22488",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-English/IELTS-Writing/Sự mạch lạc của ngôn ngữ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sự mạch lạc của ngôn ngữ"
+              "title": "New tab"
             }
           }
         ]
@@ -208,10 +204,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "92408bb8839e2c90",
+  "active": "02e1504e08d22488",
   "lastOpenFiles": [
-    "02-English/Vocabulary/although & even though.md",
+    "01-Programming/DSA/DSA-Roadmap.md",
+    "01-Programming/DSA/DSA-Roadmap (1).md",
+    "01-Programming/DSA/Problem List.md",
+    "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays/1929. Concatenation of Array.md",
     "02-English/IELTS-Writing/Sự mạch lạc của ngôn ngữ.md",
+    "02-English/Vocabulary/although & even though.md",
     "02-English/Grammar/9. Những lỗi thường gặp khi viết câu phức.md",
     "03-Work/JD requirement.md",
     "02-English/Grammar/7. Cách rút gọn Adjective Clause.md",
@@ -236,11 +236,7 @@
     "02-English/Developer English/Prompt.md",
     "02-English/Vocabulary/result.md",
     "02-English/Vocabulary/It is.md",
-    "01-Programming/Database/Template - ADR 1 1.md",
-    "02-English/IELTS-Speaking/Template - ADR 1 1 1 1 1 1 1.md",
     "02-English/IELTS-Speaking/Speaking Part 1",
-    "02-English/Vocabulary/encourage.md",
-    "02-English/Grammar/4. Cấu trúc câu dùng prep phrase.md",
     "01-Programming/DSA/Two Pointers",
     "01-Programming/DSA/Arrays & Hashing/Hash Implementation",
     "01-Programming/DSA/Arrays & Hashing/Hash Usage",
