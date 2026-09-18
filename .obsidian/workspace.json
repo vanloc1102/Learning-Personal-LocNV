@@ -11,10 +11,14 @@
             "id": "02e1504e08d22488",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-English/IELTS-Writing/3. Economy of language - Đa dạng hoá chủ ngữ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Economy of language - Đa dạng hoá chủ ngữ"
             }
           }
         ]
@@ -206,17 +210,21 @@
   },
   "active": "02e1504e08d22488",
   "lastOpenFiles": [
+    "02-English/IELTS-Writing/2. Economy of language - Cách rút gọn adverb clause.md",
+    "02-English/IELTS-Writing/3. Economy of language - Đa dạng hoá chủ ngữ.md",
+    "02-English/IELTS-Writing/3. Economy of language - Cách viết câu gọn hơn.md",
+    "02-English/Grammar/8. Câu phức (Complex Sentence) & Các loại mệnh đề phụ.md",
+    "02-English/Grammar/9. Những lỗi thường gặp khi viết câu phức.md",
+    "02-English/Grammar/7. Cách rút gọn Adjective Clause.md",
+    "02-English/Grammar/6. Adjective clause.md",
+    "02-English/IELTS-Writing/1. Sự mạch lạc của ngôn ngữ.md",
+    "02-English/Collocation/S be likely to-V.md",
     "01-Programming/DSA/DSA-Roadmap.md",
     "01-Programming/DSA/DSA-Roadmap (1).md",
     "01-Programming/DSA/Problem List.md",
     "01-Programming/DSA/Arrays & Hashing/Dynamic Arrays/1929. Concatenation of Array.md",
-    "02-English/IELTS-Writing/Sự mạch lạc của ngôn ngữ.md",
     "02-English/Vocabulary/although & even though.md",
-    "02-English/Grammar/9. Những lỗi thường gặp khi viết câu phức.md",
     "03-Work/JD requirement.md",
-    "02-English/Grammar/7. Cách rút gọn Adjective Clause.md",
-    "02-English/Grammar/8. Câu phức (Complex Sentence) & Các loại mệnh đề phụ.md",
-    "02-English/Grammar/6. Adjective clause.md",
     "02-English/IELTS-Listening/4. Lưu ý khi làm bài part 1 listening.md",
     "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Are you a student or do you work now_What do you do for a living.md",
     "02-English/IELTS-Speaking/Speaking Part 1/Work or Study/Do you work or study a lot.md",
@@ -231,11 +239,7 @@
     "02-English/Collocation/A bit of a.md",
     "02-English/Collocation/Have(exert) a negative influence on someone(something).md",
     "02-English/Collocation",
-    "03-Work/Case Study/Case dư thừa index.md",
     "02-English/IELTS-Speaking/Speaking Part 1/Work or Study",
-    "02-English/Developer English/Prompt.md",
-    "02-English/Vocabulary/result.md",
-    "02-English/Vocabulary/It is.md",
     "02-English/IELTS-Speaking/Speaking Part 1",
     "01-Programming/DSA/Two Pointers",
     "01-Programming/DSA/Arrays & Hashing/Hash Implementation",
