@@ -1,3 +1,4 @@
+https://e-learning.youpass.vn/practice/speaking-part-1/3600
 ### 2. CẤU TRÚC TRẢ LỜI (3–4 câu)
 
 **Bước 1 — Trả lời + cảm xúc chung:** `Yeah, I really do — [cảm nhận tổng thể một cụm].`  

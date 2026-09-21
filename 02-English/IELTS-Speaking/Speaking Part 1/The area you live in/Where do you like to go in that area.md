@@ -1,3 +1,4 @@
+https://e-learning.youpass.vn/practice/speaking-part-1/3601
 ### 2. CẤU TRÚC TRẢ LỜI (3–4 câu)
 
 **Bước 1 — Chọn 1 nơi + lý do gọn:** `Probably [tên nơi cụ thể], to be honest — it's where I [làm gì].`  
