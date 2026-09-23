@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c110bd773aebfef",
+        "id": "0db2bc5e64b92f47",
         "type": "tabs",
         "children": [
           {
-            "id": "be2db31cf1684a5c",
+            "id": "5af53bb67330707b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-English/IELTS-Speaking/Speaking Part 3/Would you like to work in a family business.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Would you like to work in a family business"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 453.5
   },
   "right": {
     "id": "741511d0e6c57170",
@@ -204,44 +208,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "be2db31cf1684a5c",
+  "active": "5af53bb67330707b",
   "lastOpenFiles": [
-    "02-English/IELTS-Speaking/Speaking Part 1/Color/What is the colour you dislike - Why.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Color/Do you usually wear clothes in your favorite color.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Color/Have you ever bought something because of its colour.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Color/What colours do your friends like most.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Color/What is your favorite color.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Music/How do you think music will be in the future.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Color",
-    "02-English/IELTS-Speaking/Speaking Part 1/Music/Do schools in your country have music lessons.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Music/Have you ever learned to play a musical instrument.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Music/Is there any music concert that you want to go to.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Music/Do you like music Why-Why not.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Social media/Do you often use your mobile phone for texting or making phone calls.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Music",
-    "02-English/IELTS-Speaking/Speaking Part 1/Social media/How often do you use the Internet.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Social media/When did you start using social media.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Social media/What do people often do on social media.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Social media/Do you think you spend too much time on social media.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Social media",
-    "02-English/IELTS-Speaking/Speaking Part 1/Pen and Pencil/Do you often write with a pen.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Do you think it is important to be able to read a map.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Would you like to work in a family business.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Do all people need some nature.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Should students learn to cook in school.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Do you think it is good for children to make noise.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Should all children have swimming lessons at school.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Should all tourist attractions be free to the public.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Do you prefer to study at home or study in other places.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Do you think there should be classes for training young people and children how to relax.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Is it necessary to protect historical buildings.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Should everyone know history.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Why should we write letters to friends and relatives.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Should schools teach children how to grow plants.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Should children learn musical instruments when they are young.md",
+    "02-English/IELTS-Speaking/Speaking Part 2/People/Describe a person you have met who you want to work or study with.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Music",
+    "02-English/IELTS-Speaking/Speaking Part 2/People/Describe a person who won a competition.md",
+    "02-English/IELTS-Speaking/Speaking Part 2/People/Describe a famous businessman that you admire.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Are role models important for children.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/People - Admire",
+    "02-English/IELTS-Speaking/Speaking Part 3/A Frame.md",
     "02-English/IELTS-Speaking/Speaking Part 1/A Frame.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Pen and Pencil",
-    "02-English/IELTS-Speaking/Speaking Part 2/Person/Describe a famous businessman that you admire.md",
-    "02-English/IELTS-Speaking/Speaking Part 2/Person/Describe a person you have met who you want to work or study with.md",
-    "02-English/IELTS-Speaking/Speaking Part 2/Person/Describe a person who won a competition.md",
     "02-English/IELTS-Speaking/Speaking Part 2/A Frame.md",
-    "02-English/IELTS-Speaking/Speaking Part 2/Person",
-    "02-English/IELTS-Speaking/Speaking Part 2",
-    "02-English/IELTS-Reading/3. Cách ứng dụng.md",
-    "02-English/IELTS-Reading/2. Cách phát triển kỹ năng đọc hiệu quả.md",
-    "02-English/IELTS-Reading/1. Phân tích câu văn dựa trên Logical Framework.md",
-    "02-English/IELTS-Reading",
-    "02-English/IELTS-Listening/6. Framework Pre dạng Gap-Filling Part 4.md",
-    "02-English/IELTS-Listening/5.  Giới thiệu Format Part 4.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/Spare time",
-    "02-English/IELTS-Speaking/Speaking Part 1/Routing",
-    "02-English/IELTS-Speaking/Speaking Part 1/Shopping",
+    "02-English/IELTS-Speaking/Speaking Part 3",
+    "02-English/IELTS-Speaking/Speaking Part 2/Places/City/Describe an interesting place in your country that not many people visit.md",
+    "02-English/IELTS-Speaking/Speaking Part 2/Places/City/Describe a place you have visited that is affected by air pollution.md",
+    "02-English/IELTS-Speaking/Speaking Part 2/Places/City/Describe a place where you go to relax.md",
+    "02-English/IELTS-Speaking/Speaking Part 2/Places/Buildings",
+    "02-English/IELTS-Speaking/Speaking Part 2/Places/City",
+    "02-English/IELTS-Speaking/Speaking Part 2/Places",
+    "02-English/IELTS-Speaking/Speaking Part 1/Color/Are there any colors that have a special meaning in your country.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Music/Do you think music education is important for children.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Color",
+    "02-English/IELTS-Speaking/Speaking Part 1/Music",
+    "02-English/IELTS-Speaking/Speaking Part 1/Social media",
+    "02-English/IELTS-Speaking/Speaking Part 1/Pen and Pencil",
     "_attachments/Pasted Image 20260728161328_322.png",
     "_attachments/Pasted Image 20260728155646_835.png",
     "_attachments/Pasted Image 20260728154636_576.png"
