@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1db2234b7bc68a9",
+        "id": "0989739af74f708a",
         "type": "tabs",
         "children": [
           {
-            "id": "a09a5d96dca79920",
+            "id": "1032666808f28908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-English/IELTS-Listening/11. Áp dụng Framework cho MCQ trong Part 3.md",
+                "file": "02-English/IELTS-Speaking/Speaking Part 3/A Frame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Áp dụng Framework cho MCQ trong Part 3"
+              "title": "A Frame"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.70001220703125
+    "width": 453.5
   },
   "right": {
     "id": "741511d0e6c57170",
@@ -208,44 +208,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a09a5d96dca79920",
+  "active": "1032666808f28908",
   "lastOpenFiles": [
-    "02-English/IELTS-Listening/10. Giới thiệu Format Part 3.md",
-    "02-English/IELTS-Listening/11. Áp dụng Framework cho MCQ trong Part 3.md",
-    "02-English/IELTS-Listening/8. Format Part 2 và Framework Pre dạng MCQ.md",
-    "02-English/IELTS-Listening/9. Framework While dạng MCQ.md",
-    "02-English/IELTS-Listening/6. Framework Pre dạng Gap-Filling Part 4.md",
-    "02-English/IELTS-Listening/7. Framework While dạng Gap-Filling Part 4.md",
-    "02-English/IELTS-Writing/Writing Task 2/7. Cách Phát Triển Ý (Explain) Chuẩn Học Thuật.md",
-    "02-English/IELTS-Writing/1. Sự mạch lạc của ngôn ngữ.md",
-    "02-English/IELTS-Writing/Writing Task 2/5. Cách viết cho một Body Paragraph (đoạn thân bài).md",
-    "02-English/IELTS-Writing/Writing Task 2/4. Cách thesis statement (quan điểm hoặc hướng trả lời).md",
-    "02-English/IELTS-Writing/Writing Task 2/6. Cách sử dụng từ nối (Linking words và Cohesive devices).md",
-    "02-English/IELTS-Writing/Writing Task 2/2. Cấu trúc thường dùng của IELTS Writing Task 2.md",
-    "02-English/IELTS-Writing/Writing Task 1/5. Bảng mẫu câu chi tiết cho IELTS Writing Task 1.md",
-    "02-English/IELTS-Writing/Writing Task 1/Bảng mẫu câu chi tiết cho IELTS Writing Task 1.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Are role models important for children.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/A Frame.md",
+    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/2. Viết Introduction cho dạng Opinion.md",
+    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/3. Viết Body Paragraphs cho dạng Opinion.md",
+    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/1. Tổng quan.md",
     "02-English/IELTS-Writing/Writing Task 2/1. Writing Task 2 Yêu cầu chung và Các dạng đề.md",
     "02-English/IELTS-Writing/Writing Task 2/3. Cách viết câu Paraphrasing trong Introduction.md",
+    "02-English/IELTS-Writing/Writing Task 2/2. Cấu trúc thường dùng của IELTS Writing Task 2.md",
+    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree",
+    "02-English/IELTS-Writing/Writing Task 1/5. Bảng mẫu câu chi tiết cho IELTS Writing Task 1.md",
+    "02-English/IELTS-Writing/Writing Task 2/7. Cách Phát Triển Ý (Explain) Chuẩn Học Thuật.md",
+    "02-English/IELTS-Writing/Writing Task 2/5. Cách viết cho một Body Paragraph (đoạn thân bài).md",
+    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/4. Cách chia nhóm và sắp xếp thông tin Body Pie Chart.md",
+    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/3. Cách viết Overview trong Pie Chart.md",
+    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/5. Đa dạng ngôn ngữ trong Body Paragraphs Pie Chart.md",
+    "02-English/IELTS-Writing/Writing Task 1/1. Tổng quan IELTS Writing Task 1.md",
+    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/1. Cách viết tổng quan.md",
+    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/2. Cách viết Introduction cho Pie Chart.md",
+    "02-English/IELTS-Writing/Writing Task 1/Prompt.md",
+    "02-English/IELTS-Writing/Writing Task 1/Pie Charts",
+    "02-English/IELTS-Listening/9. Framework While dạng MCQ.md",
+    "02-English/IELTS-Listening/8. Format Part 2 và Framework Pre dạng MCQ.md",
+    "02-English/IELTS-Listening/10. Giới thiệu Format Part 3.md",
+    "02-English/IELTS-Listening/11. Áp dụng Framework cho MCQ trong Part 3.md",
+    "02-English/IELTS-Writing/Writing Task 1/4. Cách SO SÁNH số liệu trong IELTS Writing Task 1 (Academic).md",
+    "02-English/IELTS-Writing/Writing Task 2/6. Cách sử dụng từ nối (Linking words và Cohesive devices).md",
+    "02-English/IELTS-Writing/Writing Task 2/4. Cách thesis statement (quan điểm hoặc hướng trả lời).md",
+    "02-English/IELTS-Listening/7. Framework While dạng Gap-Filling Part 4.md",
     "02-English/IELTS-Writing/Writing Task 2",
-    "02-English/IELTS-Writing/Writing Task 1/Tổng quan IELTS Writing Task 1.md",
     "02-English/IELTS-Writing/Writing Task 1",
-    "02-English/IELTS-Speaking/Speaking Part 2/Places/Buildings/Describe an indoor or outdoor place where it was easy for you to study.md",
-    "02-English/IELTS-Speaking/Speaking Part 2/Places/Buildings/Describe a park or garden in your city.md",
-    "02-English/IELTS-Speaking/Speaking Part 2/Places/Buildings/Describe a historical building you have been to.md",
-    "02-English/IELTS-Speaking/Speaking Part 2/Places/Buildings",
-    "02-English/IELTS-Speaking/Speaking Part 3/Would you like to work in a family business.md",
-    "02-English/IELTS-Speaking/Speaking Part 3/Why should we write letters to friends and relatives.md",
-    "02-English/IELTS-Speaking/Speaking Part 3/Should students learn to cook in school.md",
-    "02-English/IELTS-Speaking/Speaking Part 3/Should schools teach children how to grow plants.md",
-    "02-English/IELTS-Speaking/Speaking Part 3/Should everyone know history.md",
-    "02-English/IELTS-Speaking/Speaking Part 3/Should children learn musical instruments when they are young.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Music",
+    "02-English/IELTS-Speaking/Speaking Part 3/People - Admire",
     "02-English/IELTS-Speaking/Speaking Part 3",
+    "02-English/IELTS-Speaking/Speaking Part 2/Places/Buildings",
     "02-English/IELTS-Speaking/Speaking Part 2/Places/City",
-    "02-English/IELTS-Speaking/Speaking Part 2/People",
     "02-English/IELTS-Speaking/Speaking Part 2/Places",
-    "02-English/IELTS-Speaking/Speaking Part 2",
-    "02-English/IELTS-Speaking/Speaking Part 1/Social media",
-    "02-English/IELTS-Speaking/Speaking Part 1/Pen and Pencil",
     "_attachments/Pasted Image 20260728161328_322.png",
     "_attachments/Pasted Image 20260728155646_835.png",
     "_attachments/Pasted Image 20260728154636_576.png"

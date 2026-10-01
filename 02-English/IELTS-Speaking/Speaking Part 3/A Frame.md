@@ -17,7 +17,7 @@ Part 3 không kiểm tra kiến thức. Nó kiểm tra khả năng **phát tri�
 
 ## Frame 0: A.R.E.A (vạn năng, dùng khi bí)
 Do you think…? / What's your opinion…? / Is it important…?
-##### 1 số trường hợp có thể chỉ cần đưa ra Example cho ý kiến của mình, không cần giải thích lý do tại sao, vì nó đã là lý do có ý kiến rồi. Dành cho các câu hỏi về người khác có làm gì/ thay đổi như thế nào/ hành vi ra sao, như là : Do people ...? Have people's shopping...?
+### 1 số trường hợp có thể chỉ cần đưa ra Example (When -> What happened -> Why it happened -> Result) cho ý kiến của mình, không cần giải thích lý do tại sao, vì nó đã là lý do có ý kiến rồi. Dành cho các câu hỏi về người khác có làm gì/ thay đổi như thế nào/ hành vi ra sao, như là : Do people ...? Have people's shopping...? Is X correct or not
 
 | Step                | Mục đích                    | Mẫu câu                                            | Ví dụ (Q: _Is it important for children to learn a foreign language?_)      |
 | ------------------- | --------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------- |
