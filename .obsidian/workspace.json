@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0989739af74f708a",
+        "id": "6e15dc9fbc44b723",
         "type": "tabs",
         "children": [
           {
-            "id": "1032666808f28908",
+            "id": "68ae90fdfb216801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-English/IELTS-Speaking/Speaking Part 3/A Frame.md",
+                "file": "02-English/IELTS-Writing/Writing Task 1/Line Graphs/1. Cách viết tổng quan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Frame"
+              "title": "1. Cách viết tổng quan"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 380.70001220703125
   },
   "right": {
     "id": "741511d0e6c57170",
@@ -208,44 +208,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1032666808f28908",
+  "active": "68ae90fdfb216801",
   "lastOpenFiles": [
-    "02-English/IELTS-Speaking/Speaking Part 3/Are role models important for children.md",
+    "02-English/IELTS-Writing/Writing Task 1/Prompt.md",
+    "02-English/IELTS-Writing/Writing Task 1/Line Graphs/1. Cách viết tổng quan.md",
+    "02-English/IELTS-Writing/Writing Task 1/Line Graphs",
+    "02-English/IELTS-Reading/7. Dạng bài Gap Filling (Điền từ vào chỗ trống).md",
+    "02-English/IELTS-Reading/6. Đọc cuốn chiếu - Paragraph-by-paragraph reading.md",
+    "02-English/IELTS-Reading/5. 6 kỹ thuật paraphrasing (viết lại câu).md",
+    "02-English/IELTS-Speaking/Speaking Part 2/A Frame.md",
     "02-English/IELTS-Speaking/Speaking Part 3/A Frame.md",
-    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/2. Viết Introduction cho dạng Opinion.md",
-    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/3. Viết Body Paragraphs cho dạng Opinion.md",
-    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/1. Tổng quan.md",
+    "02-English/IELTS-Speaking/Speaking Part 3/Are role models important for children.md",
+    "02-English/IELTS-Reading/3. Cách ứng dụng.md",
+    "02-English/IELTS-Speaking/Speaking Part 2/People/Describe a famous businessman that you admire.md",
+    "02-English/IELTS-Listening/11. Áp dụng Framework cho MCQ trong Part 3.md",
+    "02-English/IELTS-Listening/10. Giới thiệu Format Part 3.md",
+    "02-English/IELTS-Listening/8. Format Part 2 và Framework Pre dạng MCQ.md",
+    "02-English/IELTS-Listening/9. Framework While dạng MCQ.md",
+    "02-English/IELTS-Listening/6. Framework Pre dạng Gap-Filling Part 4.md",
+    "02-English/IELTS-Listening/7. Framework While dạng Gap-Filling Part 4.md",
+    "02-English/IELTS-Writing/Writing Task 2/7. Cách Phát Triển Ý (Explain) Chuẩn Học Thuật.md",
+    "02-English/IELTS-Writing/1. Sự mạch lạc của ngôn ngữ.md",
+    "02-English/IELTS-Writing/Writing Task 2/5. Cách viết cho một Body Paragraph (đoạn thân bài).md",
+    "02-English/IELTS-Writing/Writing Task 2/4. Cách thesis statement (quan điểm hoặc hướng trả lời).md",
+    "02-English/IELTS-Writing/Writing Task 2/6. Cách sử dụng từ nối (Linking words và Cohesive devices).md",
+    "02-English/IELTS-Writing/Writing Task 2/2. Cấu trúc thường dùng của IELTS Writing Task 2.md",
+    "02-English/IELTS-Writing/Writing Task 1/5. Bảng mẫu câu chi tiết cho IELTS Writing Task 1.md",
+    "02-English/IELTS-Writing/Writing Task 1/Bảng mẫu câu chi tiết cho IELTS Writing Task 1.md",
     "02-English/IELTS-Writing/Writing Task 2/1. Writing Task 2 Yêu cầu chung và Các dạng đề.md",
     "02-English/IELTS-Writing/Writing Task 2/3. Cách viết câu Paraphrasing trong Introduction.md",
-    "02-English/IELTS-Writing/Writing Task 2/2. Cấu trúc thường dùng của IELTS Writing Task 2.md",
-    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree",
-    "02-English/IELTS-Writing/Writing Task 1/5. Bảng mẫu câu chi tiết cho IELTS Writing Task 1.md",
-    "02-English/IELTS-Writing/Writing Task 2/7. Cách Phát Triển Ý (Explain) Chuẩn Học Thuật.md",
-    "02-English/IELTS-Writing/Writing Task 2/5. Cách viết cho một Body Paragraph (đoạn thân bài).md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/4. Cách chia nhóm và sắp xếp thông tin Body Pie Chart.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/3. Cách viết Overview trong Pie Chart.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/5. Đa dạng ngôn ngữ trong Body Paragraphs Pie Chart.md",
-    "02-English/IELTS-Writing/Writing Task 1/1. Tổng quan IELTS Writing Task 1.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/1. Cách viết tổng quan.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/2. Cách viết Introduction cho Pie Chart.md",
-    "02-English/IELTS-Writing/Writing Task 1/Prompt.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts",
-    "02-English/IELTS-Listening/9. Framework While dạng MCQ.md",
-    "02-English/IELTS-Listening/8. Format Part 2 và Framework Pre dạng MCQ.md",
-    "02-English/IELTS-Listening/10. Giới thiệu Format Part 3.md",
-    "02-English/IELTS-Listening/11. Áp dụng Framework cho MCQ trong Part 3.md",
-    "02-English/IELTS-Writing/Writing Task 1/4. Cách SO SÁNH số liệu trong IELTS Writing Task 1 (Academic).md",
-    "02-English/IELTS-Writing/Writing Task 2/6. Cách sử dụng từ nối (Linking words và Cohesive devices).md",
-    "02-English/IELTS-Writing/Writing Task 2/4. Cách thesis statement (quan điểm hoặc hướng trả lời).md",
-    "02-English/IELTS-Listening/7. Framework While dạng Gap-Filling Part 4.md",
     "02-English/IELTS-Writing/Writing Task 2",
     "02-English/IELTS-Writing/Writing Task 1",
-    "02-English/IELTS-Speaking/Speaking Part 3/Music",
-    "02-English/IELTS-Speaking/Speaking Part 3/People - Admire",
-    "02-English/IELTS-Speaking/Speaking Part 3",
     "02-English/IELTS-Speaking/Speaking Part 2/Places/Buildings",
+    "02-English/IELTS-Speaking/Speaking Part 3",
     "02-English/IELTS-Speaking/Speaking Part 2/Places/City",
+    "02-English/IELTS-Speaking/Speaking Part 2/People",
     "02-English/IELTS-Speaking/Speaking Part 2/Places",
+    "02-English/IELTS-Speaking/Speaking Part 2",
+    "02-English/IELTS-Speaking/Speaking Part 1/Social media",
     "_attachments/Pasted Image 20260728161328_322.png",
     "_attachments/Pasted Image 20260728155646_835.png",
     "_attachments/Pasted Image 20260728154636_576.png"
