@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3576abe5e17713d2",
+        "id": "4d9c0d0942465f95",
         "type": "tabs",
         "children": [
           {
-            "id": "a54d6438d32ba8d8",
+            "id": "fb08cb4881be5fa8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "02-English/IELTS-Speaking/Speaking Part 2/Object/Describe a useful object that you cannot live without.md",
-                "bFile": "02-English/IELTS-Speaking/Speaking Part 2/Object/Describe a useful object that you cannot live without.md",
-                "aRef": ""
+                "file": "02-English/IELTS-Writing/Writing Task 1/Line Graphs/3. Viết Overview cho Line Graph.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Describe a useful object that you cannot live without  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "3. Viết Overview cho Line Graph"
             }
           }
         ]
@@ -208,11 +208,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0bbb9074f081442c",
+  "active": "fb08cb4881be5fa8",
   "lastOpenFiles": [
+    "02-English/IELTS-Writing/Writing Task 1/Line Graphs/2. Viết Introduction cho Line Graph.md",
+    "02-English/IELTS-Writing/Writing Task 1/Line Graphs/3. Viết Overview cho Line Graph.md",
     "02-English/IELTS-Writing/Writing Task 1/Line Graphs/1. Cách viết tổng quan.md",
-    "02-English/IELTS-Writing/Writing Task 1/Line Graphs",
+    "02-English/IELTS-Writing/Writing Task 1/Prompt.md",
     "02-English/IELTS-Reading/7. Dạng bài Gap Filling (Điền từ vào chỗ trống).md",
+    "02-English/IELTS-Writing/Writing Task 1/Line Graphs",
     "02-English/IELTS-Reading/6. Đọc cuốn chiếu - Paragraph-by-paragraph reading.md",
     "02-English/IELTS-Reading/5. 6 kỹ thuật paraphrasing (viết lại câu).md",
     "02-English/IELTS-Reading/4. Framework đọc hiểu câu.md",
@@ -236,9 +239,6 @@
     "02-English/IELTS-Writing/Writing Task 1/5. Bảng mẫu câu chi tiết cho IELTS Writing Task 1.md",
     "02-English/IELTS-Writing/Writing Task 2/7. Cách Phát Triển Ý (Explain) Chuẩn Học Thuật.md",
     "02-English/IELTS-Writing/Writing Task 2/5. Cách viết cho một Body Paragraph (đoạn thân bài).md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/4. Cách chia nhóm và sắp xếp thông tin Body Pie Chart.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/3. Cách viết Overview trong Pie Chart.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/5. Đa dạng ngôn ngữ trong Body Paragraphs Pie Chart.md",
     "02-English/IELTS-Writing/Writing Task 1/Pie Charts",
     "02-English/IELTS-Writing/Writing Task 2",
     "02-English/IELTS-Writing/Writing Task 1",
