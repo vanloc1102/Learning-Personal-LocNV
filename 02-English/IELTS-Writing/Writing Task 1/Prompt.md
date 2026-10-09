@@ -6,13 +6,7 @@ Hãy trình bày câu trả lời thật trực quan, dễ hiểu (dùng bullet 
 
 1. Tư duy cốt lõi & Cách tiếp cận: Mục đích chính của dạng đề này là gì? Giám khảo muốn thấy kỹ năng gì ở thí sinh khi gặp dạng này (so sánh, mô tả xu hướng, hay mô tả quy trình)?
 
-2. Cấu trúc 4 đoạn chuẩn: Hướng dẫn chi tiết cách viết từng đoạn:
-
-Introduction: Cách paraphrase lại đề bài.
-
-Overview: Cách tìm và viết 2-3 đặc điểm nổi bật nhất (không đưa số liệu). Chỉ ra mẹo nhìn nhanh đặc điểm của riêng dạng này.
-
-Body 1 & Body 2: Tiêu chí để chia nhóm thông tin vào 2 đoạn thân bài sao cho logic nhất (theo năm, theo hạng mục, hay theo xu hướng?).
+2. Cấu trúc bao nhiêu đoạn chuẩn và Hướng dẫn chi tiết cách viết từng đoạn
 
 3. Kho từ vựng & Ngữ pháp "ăn điểm": Cung cấp các công thức câu và cụm từ vựng (Band 7+) ĐẶC TRƯNG NHẤT chuyên dùng cho dạng đề này. (Ví dụ: từ vựng chỉ xu hướng, so sánh nhất/hơn, từ nối các bước...).
 
