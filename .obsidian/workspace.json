@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "858c26dd9c3ec48b",
+        "id": "a7eb444cef34e966",
         "type": "tabs",
         "children": [
           {
-            "id": "db5a2e518a7e691d",
+            "id": "f4fabd96d7ee9116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/6. Cách tránh lặp từ trong IELTS Writing Task 2.md",
+                "file": "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/3. Viết Body Paragraphs cho dạng Opinion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Cách tránh lặp từ trong IELTS Writing Task 2"
+              "title": "3. Viết Body Paragraphs cho dạng Opinion"
             }
           }
         ]
@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -188,11 +188,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 288.699951171875
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,35 +208,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "db5a2e518a7e691d",
+  "active": "f4fabd96d7ee9116",
   "lastOpenFiles": [
-    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/5. Linking Devices toàn tập cho dạng Advantages & Disadvantages.md",
-    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/6. Cách tránh lặp từ trong IELTS Writing Task 2.md",
     "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/4. Body và triển khai ý cho dạng Advantages Disadvantages.md",
+    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/5. Linking Devices toàn tập cho dạng Advantages & Disadvantages.md",
+    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/1.1 Brainstorm ý tưởng cho dạng Advantages Disadvantages.md",
     "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/3. Viết Body Paragraphs cho dạng Opinion.md",
     "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/1.1 Brainstorm Ý tưởng cho dạng Opinion.md",
-    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/2. Introduction cho dạng Advantages Disadvantages.md",
-    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/2. Viết Introduction cho dạng Opinion.md",
-    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/1.1 Brainstorm ý tưởng cho dạng Advantages Disadvantages.md",
-    "02-English/IELTS-Writing/Writing Task 1/Line Graphs/2. Viết Introduction cho Line Graph.md",
-    "02-English/IELTS-Writing/Writing Task 1/Line Graphs/3. Viết Overview cho Line Graph.md",
-    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/1. Tổng quan.md",
-    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/1. Tổng quan.md",
-    "02-English/IELTS-Speaking/Speaking Part 2/A Frame.md",
-    "02-English/IELTS-Speaking/Speaking Part 3/A Frame.md",
-    "02-English/IELTS-Speaking/Speaking Part 1/A Frame.md",
-    "02-English/IELTS-Writing/Writing Task 1/4. Cách SO SÁNH số liệu trong IELTS Writing Task 1 (Academic).md",
-    "02-English/IELTS-Writing/Writing Task 1/5. Bảng mẫu câu chi tiết cho IELTS Writing Task 1.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/5. Đa dạng ngôn ngữ trong Body Paragraphs Pie Chart.md",
-    "02-English/IELTS-Writing/3. Economy of language - Đa dạng hoá chủ ngữ.md",
-    "02-English/IELTS-Writing/Writing Task 2/5. Cách viết cho một Body Paragraph (đoạn thân bài).md",
-    "02-English/IELTS-Writing/Writing Task 2/7. Cách Phát Triển Ý (Explain) Chuẩn Học Thuật.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/1. Cách viết tổng quan.md",
-    "02-English/IELTS-Listening/1. Framework Pre dạng Gap Filling.md",
-    "02-English/IELTS-Listening/3. Ba cách Paraphrasing.md",
+    "02-English/IELTS-Writing/Writing Task 1/Bar Charts/1. Tổng quan dạng Bar Chart.md",
+    "02-English/IELTS-Writing/Writing Task 1/Bar Charts/3. Cách viết Overview cho từng dạng Bar Chart.md",
+    "02-English/IELTS-Writing/Writing Task 1/Bar Charts/4. Viết Body 1 cho Bar Chart.md",
+    "02-English/IELTS-Writing/Writing Task 1/Bar Charts/5. Viết Body 2 cho Bar Chart.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Music/Do you like music Why-Why not.md",
+    "02-English/IELTS-Speaking/Speaking Part 1/Music/Do schools in your country have music lessons.md",
+    "02-English/IELTS-Writing/Writing Task 1/Bar Charts/2. Viết Introduction cho Bar Chart.md",
+    "02-English/IELTS-Writing/Writing Task 1/1. Tổng quan IELTS Writing Task 1.md",
     "02-English/IELTS-Writing/Writing Task 1/Line Graphs/1. Cách viết tổng quan.md",
-    "02-English/IELTS-Writing/Writing Task 1/Pie Charts/3. Cách viết Overview trong Pie Chart.md",
+    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/6. Cách tránh lặp từ trong IELTS Writing Task 2.md",
+    "02-English/IELTS-Writing/Writing Task 1/Bar Charts",
+    "02-English/IELTS-Writing/Writing Task 1/Line Graphs/4. Viết Body cho Line Graph.md",
+    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/3. Thesis Statement chuyên sâu cho dạng Advantages & Disadvantages.md",
+    "02-English/IELTS-Writing/Writing Task 1/Prompt.md",
+    "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree/2. Viết Introduction cho dạng Opinion.md",
+    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/2. Introduction cho dạng Advantages Disadvantages.md",
+    "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages/1. Tổng quan.md",
     "02-English/IELTS-Writing/Writing Task 2/Advantages - Disadvantages",
+    "02-English/IELTS-Writing/Writing Task 2/Prompt.md",
+    "02-English/Developer English/Prompt.md",
+    "02-English/IELTS-Writing/Writing Task 1/Line Graphs/3. Viết Overview cho Line Graph.md",
+    "02-English/IELTS-Writing/Writing Task 1/Line Graphs/2. Viết Introduction cho Line Graph.md",
+    "02-English/IELTS-Reading/7. Dạng bài Gap Filling (Điền từ vào chỗ trống).md",
     "02-English/IELTS-Writing/Writing Task 1/Line Graphs",
     "02-English/IELTS-Speaking/Speaking Part 2/Object",
     "02-English/IELTS-Writing/Writing Task 2/Opinion - Agree or Disagree",
@@ -245,7 +246,6 @@
     "02-English/IELTS-Writing/Writing Task 1",
     "02-English/IELTS-Speaking/Speaking Part 3/Music",
     "02-English/IELTS-Speaking/Speaking Part 3/People - Admire",
-    "02-English/IELTS-Speaking/Speaking Part 3",
     "_attachments/Pasted Image 20260728161328_322.png",
     "_attachments/Pasted Image 20260728155646_835.png",
     "_attachments/Pasted Image 20260728154636_576.png"
