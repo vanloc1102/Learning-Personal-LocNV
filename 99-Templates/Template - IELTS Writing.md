@@ -6,7 +6,7 @@
 
 > 
 
-**Dạng bài:** <!-- Opinion / Discussion / Problem-Solution / Advantages-Disadvantages / Two-part -->
+**Dạng bài:** <!-- Opinion / Discussion / Advantages-Disadvantages / Positive-Negative / Problem-Solution / Two-part -->
 **Thời gian làm:** phút
 **Band tự đánh giá / được chấm:** 
 
