@@ -41,4 +41,4 @@
 ## Liên quan
 
 - [[0. MOC Writing Task 1]]
-- [[9. Quy trình 20 phút và tự chấm bài]]
+- [[9. Lộ trình tự học và quy trình làm bài Task 1]]
