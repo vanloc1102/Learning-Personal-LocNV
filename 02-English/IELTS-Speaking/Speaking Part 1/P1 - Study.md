@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Mỗi câu gồm link luyện, khung gợi ý (xem [[1. Khung trả lời Part 1]]) và chỗ ghi dàn ý, bài nói, lỗi tự sửa. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. What subject are you studying?
 
@@ -16,18 +16,18 @@
 - **Tự sửa:**
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **Hướng trả lời:** Câu này chỉ hỏi nếu bạn nói mình đang đi học. Nếu đang học thêm (IELTS, khóa online), có thể nói ngắn: chuyên ngành hoặc khóa học, lý do.
+> **Hướng trả lời:** Bạn không còn là sinh viên (quy tắc 3 trong hồ sơ). Nói thẳng bạn đã đi làm, hiện học IELTS buổi tối; có thể nhắc ngành đã học (IT).
 >
 > **Dàn ý:** Khung 6 (Miêu tả), 3 bước:
-> 1. **Ngành hoặc khóa học:** tên ngành, năm mấy; nếu đã đi làm: khóa học thêm (IELTS, khóa online).
-> 2. **Học ở đâu, học gì:** trường, các môn chính, học kỳ này tập trung vào đâu.
-> 3. **Điểm thú vị:** phần bạn thích nhất, liên hệ với công việc tương lai.
+> 1. **Trả lời thẳng:** không còn đi học, đã đi làm.
+> 2. **Đang học gì:** IELTS, khoảng 1 tiếng mỗi tối; có thể thêm kiến thức thiết kế hệ thống.
+> 3. **Liên hệ quá khứ:** ngành IT ở trường [tên] tại Đà Nẵng.
 >
-> **Mẫu câu nên dùng:** *I'm currently studying...* / *It's a... year course.* / *What I find most interesting is...*
+> **Mẫu câu nên dùng:** *I'm not a student any more, but...* / *at the moment I'm studying for IELTS in the evenings* / *Back at university, I studied IT.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I'm currently studying computer science at university. It's a four-year course, and right now we're focusing on software engineering. What I find most interesting is how we can turn an idea into a real product people use every day.*
+> *I'm not a student any more, but at the moment I'm studying for IELTS in the evenings. I studied IT at university in Da Nang, and these days I'm also learning more about system design for my job.*
 
 ## 2. Why did you choose to study that subject?
 
@@ -38,18 +38,18 @@
 - **Tự sửa:**
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **Hướng trả lời:** Lý do quá khứ (đam mê, cơ hội việc làm, gia đình khuyên), dùng quá khứ đơn.
+> **Hướng trả lời:** Trả lời về ngành IT ở đại học (quá khứ) hoặc vì sao học IELTS (hiện tại).
 >
 > **Dàn ý:** Khung 4 (Quá khứ và hiện tại), 3 bước:
-> 1. **Lý do chính:** đam mê từ khi nào (một trải nghiệm cụ thể thời cấp ba).
-> 2. **Lý do phụ:** cơ hội việc làm, lời khuyên của gia đình, thầy cô.
-> 3. **Nhìn lại:** đó có phải lựa chọn đúng không, có khó hơn tưởng tượng không.
+> 1. **Lý do chọn IT:** [cần điền theo mục A12: thích máy tính từ khi nào].
+> 2. **Lý do phụ:** cơ hội việc làm.
+> 3. **Nhìn lại:** đúng lựa chọn; giờ học IELTS vì mục tiêu Solution Architect.
 >
 > **Mẫu câu nên dùng:** *I chose it mainly because...* / *I was fascinated by... when I was in high school.* / *It turned out to be the right decision.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I chose it mainly because I was fascinated by computers in high school, especially by how websites worked. There were also plenty of job opportunities in IT in Vietnam. Looking back, it turned out to be the right decision, even though the course was harder than I expected.*
+> *If you mean IT, I chose it because I was fascinated by computers as a teenager, and there were plenty of jobs in the field. Looking back, it was the right decision. And I'm studying English now because I'm aiming for a solution architect role.*
 
 ## 3. Do you like your subject?
 
@@ -60,18 +60,18 @@
 - **Tự sửa:**
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **Hướng trả lời:** Có, nhưng thêm phần khó để tự nhiên; ví dụ một học phần.
+> **Hướng trả lời:** Nói về việc học IELTS hiện tại: phần thích, phần khó.
 >
 > **Dàn ý:** Khung 1 (D-R-E), 3 bước:
 > 1. **Trả lời:** phần lớn là có.
-> 2. **Phần thích:** học phần thực hành, dự án nhóm, kết quả nhìn thấy được.
-> 3. **Phần khó:** môn lý thuyết, nhiều toán; lúc nào bạn từng nản.
+> 2. **Phần thích:** thấy tiến bộ rõ ở Listening, Reading.
+> 3. **Phần khó:** Speaking, nói trôi chảy khi áp lực; khó sắp xếp thời gian vì có con nhỏ.
 >
 > **Mẫu câu nên dùng:** *For the most part, yes.* / *The practical modules are great, but...* / *It can be quite challenging.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *For the most part, yes. I really enjoy the practical modules where we build actual apps. The maths-heavy subjects can be quite challenging, though, and there were times when I wondered why I'd chosen it.*
+> *Mostly, yes. I enjoy seeing my listening and reading scores improve. Speaking is the hard part, because my mind sometimes goes blank under pressure. Finding the time is also tricky with a young son, but an hour every evening seems to work.*
 
 ## 4. How much time do you spend on your studies each week?
 
@@ -85,15 +85,15 @@
 > **Hướng trả lời:** Số giờ cụ thể, chia lên lớp và tự học, thời điểm học.
 >
 > **Dàn ý:** Khung 3 (Tần suất), 3 bước:
-> 1. **Tổng số giờ:** khoảng bao nhiêu giờ mỗi tuần.
-> 2. **Phân bổ:** giờ lên lớp, tự học, làm bài nhóm; học vào lúc nào.
-> 3. **Thay đổi theo thời điểm:** trước kỳ thi tăng thế nào; bạn thấy đủ hay quá nhiều.
+> 1. **Tổng số giờ:** khoảng 5–6 giờ mỗi tuần.
+> 2. **Phân bổ:** 1 tiếng mỗi tối ngày thường, theo lịch 24 tuần; cuối tuần ít.
+> 3. **Nhận xét:** đủ để tiến bộ đều, không ảnh hưởng gia đình.
 >
 > **Mẫu câu nên dùng:** *Roughly... hours a week.* / *On top of lectures, I spend...* / *It goes up a lot before exams.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Roughly thirty hours a week. On top of about fifteen hours of lectures, I spend another fifteen or so on assignments and group projects. It goes up a lot before exams, when I practically live in the library.*
+> *About five or six hours a week. I do roughly an hour every weekday evening, following a 24-week plan, and I keep weekends mostly free for my family. It's not a lot, but doing a little every day works better for me than cramming.*
 
 ## 5. Do you prefer to study in the mornings or in the afternoons?
 
@@ -104,18 +104,18 @@
 - **Tự sửa:**
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **Hướng trả lời:** Chọn một, lý do (tỉnh táo, yên tĩnh), so với buổi kia.
+> **Hướng trả lời:** Thống nhất với P1 Daily routine: bạn là người buổi tối. Thực tế bạn học buổi tối.
 >
 > **Dàn ý:** Khung 2 (Đối lập), 3 bước:
-> 1. **Lựa chọn:** buổi sáng hay chiều.
-> 2. **Lý do:** đầu óc tỉnh táo, yên tĩnh, uống cà phê xong; làm việc khó nhất lúc đó.
-> 3. **Buổi còn lại dùng để làm gì:** buổi chiều buồn ngủ sau ăn trưa nên ôn nhẹ, làm việc đơn giản.
+> 1. **Trả lời thẳng:** không phải sáng hay chiều, mà buổi tối.
+> 2. **Lý do:** ban ngày đi làm; buổi tối nhà yên tĩnh, đầu óc thoải mái.
+> 3. **Buổi sáng thì sao:** buổi sáng vội đi làm, đầu óc chưa tỉnh.
 >
 > **Mẫu câu nên dùng:** *I'm much more focused in the...* / *My brain works best when...* / *In the afternoons I tend to feel sleepy.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I'm much more focused in the mornings. My brain works best after a coffee and before the day gets busy, so I save the hardest tasks for then. In the afternoons I tend to feel sleepy, especially after lunch, so I use that time for easier things like revising notes.*
+> *Neither, actually: I study in the evenings. During the day I'm at work, and mornings are always a rush to get out of the house. By around nine at night, the house is quiet, and that's when I can really focus.*
 
 ## 6. Do you think geography is useful?
 

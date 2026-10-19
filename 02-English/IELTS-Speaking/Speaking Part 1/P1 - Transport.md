@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Khung gợi ý xem [[1. Khung trả lời Part 1]]. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi. Khi gặp câu hỏi chủ đề này trong bộ đề mới, thêm link vào đúng câu.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. How do you usually get to work?
 
@@ -26,7 +26,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I ride my motorbike, like most people in Ho Chi Minh City. It takes about twenty-five minutes, depending on the traffic. During the rainy season, when the streets flood, I sometimes book a car through an app instead, even though it's slower.*
+> *I ride my motorbike, like most people here. It takes about forty minutes, depending on the traffic. During the rainy season, when some streets flood, I leave a bit earlier, because getting stuck in water on a motorbike is no fun.*
 
 ## 2. Is public transport good in your city?
 
@@ -60,15 +60,15 @@
 > **Hướng trả lời:** Kể đi xe buýt khi đi học hoặc đại học, hoặc được bố mẹ chở; so với nay.
 >
 > **Dàn ý:** Khung 4 (Quá khứ và hiện tại), 3 bước:
-> 1. **Hồi đó:** thời đại học hay đi xe buýt, đi tuyến nào, bao lâu.
-> 2. **Trải nghiệm:** đông, nóng, nhưng tranh thủ đọc sách; kỷ niệm cụ thể.
-> 3. **Bây giờ:** chuyển sang xe máy khi nào, vì sao; có muốn quay lại dùng metro không.
+> 1. **Hồi đó:** ở Đà Nẵng, giao thông công cộng ít; [xác nhận: đi xe đạp, xe máy hay xe buýt khi đi học].
+> 2. **Trải nghiệm:** một kỷ niệm đi học.
+> 3. **Bây giờ:** đi xe máy; muốn thử metro mới ở TP.HCM.
 >
 > **Mẫu câu nên dùng:** *Quite a lot when I was at university.* / *I used to take the bus because it was cheap.* / *Once I could afford a motorbike, I...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Quite a lot when I was at university. I used to take the bus every day because it was cheap and I didn't have a motorbike yet. It was often crowded and hot, but I got a lot of reading done. Once I could afford a motorbike, I stopped using it.*
+> *Not really. Back in Da Nang, there weren't many buses, so I cycled to school and later rode a motorbike, like most people. Now that Ho Chi Minh City has its first metro line, I'd like to try it, but it doesn't go near my office yet.*
 
 ## 4. Would you like to drive a car in the future?
 
@@ -89,7 +89,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Maybe one day, but not for getting around the city centre. Parking is a nightmare, and a car would actually be slower than a motorbike in rush-hour traffic. It'd be really useful for family trips back to my hometown, though, especially in the rainy season.*
+> *Maybe one day, mainly for my family. With a young son, a car would be much safer and more comfortable than a motorbike, especially in the rainy season. But in the city centre, parking is a nightmare, so for my daily commute I'd probably stick with my motorbike.*
 
 ---
 

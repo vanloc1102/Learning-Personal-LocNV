@@ -5,7 +5,7 @@
 > [!info] Đề Part 2
 > Đề phổ biến của dạng này, chưa có link luyện. Mỗi đề gồm cue card, dạng khung (xem [[1. Khung trả lời Part 2]]), câu chuyện có thể dùng (xem [[2. Kho câu chuyện Part 2]]) và 3 câu Part 3 đi kèm. Chuẩn bị 1 phút bằng 5 từ khóa, nói đủ 2 phút.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Describe a film you enjoyed watching
 
@@ -19,7 +19,7 @@
 > and explain why you enjoyed it.
 
 - **Dạng khung:** Dạng 6 (Phim, sách, ứng dụng)
-- **Câu chuyện có thể dùng:** Kể nơi xem, với ai; chỉ 2 câu tóm tắt nội dung
+- **Câu chuyện có thể dùng:** Câu chuyện 9 (One Piece)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -29,28 +29,29 @@
     - *Will cinemas disappear in the future?* · Frame 4 (T.P.C)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** Interstellar / xem lần đầu ở rạp với bạn / phi hành gia tìm hành tinh mới cho nhân loại / cảnh người cha xem tin nhắn của con / khoa học và tình cha con
+> **5 từ khóa mẫu (1 phút chuẩn bị):** One Piece Film: Red [xác nhận] / fan One Piece nhiều năm / Luffy và băng Mũ Rơm, cô ca sĩ Uta / cảnh hát cuối phim / tình bạn, theo đuổi ước mơ
 >
 > **Dàn ý 5 khối:**
-> 1. **Mở đề:** tên phim, thể loại, đạo diễn.
->     - Mẫu câu: *I'd like to talk about Interstellar, a science-fiction film by Christopher Nolan.*
-> 2. **Bối cảnh:** xem khi nào, ở đâu, với ai, vì sao chọn phim này.
->     - Nói gì: lần đầu ở rạp với bạn thời đại học; được bạn rủ; kỳ vọng ban đầu.
->     - Mẫu câu: *I first saw it at the cinema with a few friends when I was at university.*
+> 1. **Mở đề:** tên phim, thể loại.
+>     - Nói gì: phim anime chiếu rạp thuộc loạt One Piece; nếu bạn thích một phim khác, đổi tên.
+>     - Mẫu câu: *I'd like to talk about One Piece Film: Red, an anime film based on a Japanese manga series I've followed for years.*
+> 2. **Bối cảnh:** xem khi nào, ở đâu, với ai.
+>     - Nói gì: [xem ở rạp hay ở nhà, với ai: cần điền]; bạn theo One Piece từ khi nào.
+>     - Mẫu câu: *I've been a One Piece fan since I was a teenager, so I couldn't miss it.*
 > 3. **Mô tả phim:**
->     - Tóm tắt 2 câu: Trái Đất đang chết dần, một nhóm phi hành gia đi tìm hành tinh mới cho nhân loại; nhân vật chính là một người cha.
->     - Listing điểm hay: hình ảnh vũ trụ, âm nhạc, khoa học → Pick one: âm nhạc của Hans Zimmer (tiếng đàn organ, cảm xúc).
->     - Mẫu câu: *It's set in the near future. / Without giving too much away,...*
-> 4. **Khoảnh khắc cụ thể khi xem:**
->     - Nói gì: cảnh người cha xem tin nhắn video của con sau nhiều năm; cả rạp im lặng; bạn rơi nước mắt hoặc nổi da gà.
->     - Mẫu câu: *There's one scene where... and the whole cinema went completely silent.*
+>     - Tóm tắt 2 câu: Luffy và băng hải tặc Mũ Rơm đến một buổi hòa nhạc của Uta, một ca sĩ nổi tiếng có liên quan đến quá khứ của Luffy.
+>     - Listing: âm nhạc, hình ảnh, nhân vật → Pick one: âm nhạc, vì phim gần như là một buổi hòa nhạc.
+>     - Mẫu câu: *Without giving too much away,... / The soundtrack is the real star.*
+> 4. **Khoảnh khắc khi xem:**
+>     - Nói gì: [cảnh bạn nhớ nhất và cảm xúc lúc đó].
+>     - Mẫu câu: *There's one scene near the end where...*
 > 5. **Vì sao thích:**
->     - Nói gì: vừa khoa học vừa cảm xúc, khiến bạn suy nghĩ; đã xem lại mấy lần; khuyên ai nên xem.
->     - Mẫu câu: *It's the kind of film that stays with you. / It's well worth watching.*
+>     - Nói gì: chủ đề tình bạn và theo đuổi ước mơ; muốn xem lại cùng bạn bè hoặc với con khi con lớn.
+>     - Mẫu câu: *It's the kind of film that stays with you. / I'd happily watch it again with friends.*
 >
 > **Mẫu câu nên dùng:** *It's set in the near future.* / *Without giving too much away,...* / *It had me on the edge of my seat.* / *It's well worth watching.*
 >
-> **Bẻ lái từ kho câu chuyện:** Không cần câu chuyện cá nhân; khối 4 là khoảnh khắc khi bạn xem.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 9 (One Piece). Dùng lại cho *a film you'd like to see again with friends*. Kiểm tra lại tên phim bạn thật sự đã xem.
 >
 > **Part 3 · *Why are action films so popular?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -87,7 +88,7 @@
 > and explain why you find it useful.
 
 - **Dạng khung:** Dạng 6 (Phim, sách, ứng dụng)
-- **Câu chuyện có thể dùng:** Câu chuyện 4 (công nghệ dùng hằng ngày)
+- **Câu chuyện có thể dùng:** Câu chuyện 7 cho khối 4 (lạc đường khi phượt); ứng dụng thật theo mục L3
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -97,7 +98,7 @@
     - *Should children's screen time be limited?* · Frame 3 (Two-sided)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** Google Maps / dùng mỗi ngày / tìm đường, xem kẹt xe, tìm quán / lần lạc ở Đà Lạt lúc trời tối / không thể thiếu
+> **5 từ khóa mẫu (1 phút chuẩn bị):** Google Maps / dùng mỗi ngày / tìm đường, xem kẹt xe, tìm quán / lần lạc đường trong chuyến phượt miền Tây / không thể thiếu
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** ứng dụng nào, dùng để làm gì.
@@ -109,15 +110,15 @@
 >     - Listing: chỉ đường, tình hình giao thông, đánh giá quán ăn, giờ mở cửa → Pick one: cảnh báo kẹt xe giờ cao điểm; cách bạn dùng mỗi sáng.
 >     - Mẫu câu: *The feature I rely on most is... / It's incredibly handy.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: lạc đường ở Đà Lạt buổi tối, trời lạnh, điện thoại còn ít pin; ứng dụng dẫn về khách sạn qua đường tắt.
->     - Mẫu câu: *I remember getting completely lost in Đà Lạt one evening...*
+>     - Nói gì: chuyến phượt miền Tây, trời tối, lạc giữa đường làng ven kênh, điện thoại còn ít pin; ứng dụng dẫn về chỗ nghỉ.
+>     - Mẫu câu: *I remember getting completely lost on a country road in the Mekong Delta one evening...*
 > 5. **Vì sao hữu ích và nhược điểm:**
 >     - Nói gì: tiết kiệm thời gian, tự tin khi đi nơi lạ; đôi khi dẫn vào hẻm cụt hoặc đường ngập.
 >     - Mẫu câu: *It's not perfect, but... / I'd be lost without it, literally.*
 >
 > **Mẫu câu nên dùng:** *I'd be lost without it, literally.* / *It's incredibly handy.* / *It saves me so much time.* / *It occasionally leads me down a dead end.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 4 (công nghệ dùng hằng ngày). Có thể đổi sang ứng dụng gọi xe, ngân hàng, học từ vựng.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 7 (chuyến phượt miền Tây) cho khối 4. Ứng dụng là ví dụ; điền theo mục L3 trong hồ sơ.
 >
 > **Part 3 · *Are people too dependent on their phones?***
 > - Dàn ý: Frame 0 (A.R.E.A)
@@ -155,7 +156,7 @@
 > and explain what you learned from it.
 
 - **Dạng khung:** Dạng 6 (Phim, sách, ứng dụng)
-- **Câu chuyện có thể dùng:** Một cuốn sách đơn giản bạn thật sự đọc
+- **Câu chuyện có thể dùng:** Cuốn sách thật theo mục I4 trong hồ sơ (sách kỹ thuật cũng được)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -186,7 +187,7 @@
 >
 > **Mẫu câu nên dùng:** *It's packed with practical advice.* / *The main message is that...* / *It really resonated with me.* / *I'd recommend it to anyone who...*
 >
-> **Bẻ lái từ kho câu chuyện:** Một cuốn sách đơn giản bạn thật sự đọc; có thể nối với câu chuyện 8 (thói quen mới).
+> **Bẻ lái từ kho câu chuyện:** Cuốn sách là ví dụ; thay bằng cuốn thật theo mục I4 trong hồ sơ (sách kỹ thuật cũng được). Nối khối 5 với câu chuyện 10 nếu sách giúp mục tiêu Solution Architect.
 >
 > **Part 3 · *Do people read less than in the past?***
 > - Dàn ý: Frame 1 (C.D.R)
@@ -221,7 +222,7 @@
 > - and explain why you remember it
 
 - **Dạng khung:** Dạng 6 (Phim, sách, ứng dụng)
-- **Câu chuyện có thể dùng:** Một quảng cáo Tết cảm động hoặc quảng cáo trên mạng xã hội bạn từng xem
+- **Câu chuyện có thể dùng:** Quảng cáo thật theo mục L9 trong hồ sơ
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -252,7 +253,7 @@
 >
 > **Mẫu câu nên dùng:** *It really tugged at my heartstrings.* / *It was more like a short film than an advert.* / *The product only appeared at the very end.* / *It went viral.*
 >
-> **Bẻ lái từ kho câu chuyện:** Không cần chuyện cá nhân; khối 4 là cảm xúc của bạn khi xem.
+> **Bẻ lái từ kho câu chuyện:** Không cần chuyện cá nhân; khối 4 là cảm xúc của bạn khi xem. Quảng cáo thật: mục L9 trong hồ sơ.
 >
 > **Part 3 · *Do advertisements influence what people buy?***
 > - Dàn ý: Frame 0 (A.R.E.A)
@@ -288,7 +289,7 @@
 > - and explain why you visit it often
 
 - **Dạng khung:** Dạng 6 (Phim, sách, ứng dụng)
-- **Câu chuyện có thể dùng:** Câu chuyện 4 (công nghệ dùng hằng ngày): một trang web cho công việc hoặc học IELTS
+- **Câu chuyện có thể dùng:** Câu chuyện 11 (công việc hằng ngày); trang web thật theo mục L3
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -319,7 +320,7 @@
 >
 > **Mẫu câu nên dùng:** *I came across it when...* / *It's a lifesaver.* / *I can't count the number of times...* / *It's one of the first sites I check.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 4. Nếu không phải dân IT, đổi sang trang học IELTS, tin tức, mua sắm.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 11 (công việc hằng ngày). Trang web thật: mục L3 trong hồ sơ.
 >
 > **Part 3 · *Do people trust information they find online?***
 > - Dàn ý: Frame 0 (A.R.E.A)

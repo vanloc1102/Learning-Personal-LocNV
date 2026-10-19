@@ -5,7 +5,7 @@
 > [!info] Đề Part 2
 > Mỗi đề gồm cue card, link luyện, dạng khung (xem [[1. Khung trả lời Part 2]]) và câu chuyện có thể dùng (xem [[2. Kho câu chuyện Part 2]]). Mỗi đề có thêm 3 câu Part 3 đi kèm. Chuẩn bị 1 phút bằng 5 từ khóa, nói đủ 2 phút.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Describe a famous businessman that you admire
 
@@ -51,7 +51,7 @@
 >
 > **Mẫu câu nên dùng:** *He built his fortune from scratch.* / *He's not afraid to take big risks.* / *He's put Vietnamese brands on the map.* / *Love him or hate him,...*
 >
-> **Bẻ lái từ kho câu chuyện:** Không cần chuyện cá nhân; nếu không biết doanh nhân nào, có thể nói về nhà sáng lập công ty bạn đang làm hoặc một nhà sáng lập công nghệ nổi tiếng (Steve Jobs), giữ nguyên khung.
+> **Bẻ lái từ kho câu chuyện:** Không cần chuyện cá nhân (xem mục M7 trong [[0. Hồ sơ cá nhân khi nói]]). Có thể nối với câu chuyện 10: bạn học được gì từ người đó cho mục tiêu Solution Architect.
 >
 > **Part 3 · *What qualities does a successful businessperson need?***
 > - Dàn ý: Frame 7 (Classify): ba nhóm phẩm chất
@@ -90,7 +90,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/4133
 - **Dạng khung:** Dạng 1 (Người) kết hợp Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 3 (một người bạn, đồng nghiệp) nếu người đó từng thắng một cuộc thi
+- **Câu chuyện có thể dùng:** Câu chuyện 4 (kèm các bạn junior): một bạn trong nhóm thắng hackathon; hoặc một vận động viên Việt Nam
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -100,30 +100,29 @@
     - *Should schools give prizes to the best students?* · Frame 3 (Two-sided)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** bạn đồng nghiệp Minh / hackathon công ty / 48 giờ / ứng dụng hỗ trợ khách hàng / được mời sang Nhật trình bày
+> **5 từ khóa mẫu (1 phút chuẩn bị):** Minh, junior trong nhóm của bạn / hackathon nội bộ công ty / bạn là người kèm cậu ấy / lúc công bố tên đội / bạn tự hào như chính mình thắng
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** người đó là ai, thắng cuộc thi gì.
->     - Nói gì: tên, quan hệ với bạn (đồng nghiệp, bạn học), tên cuộc thi.
->     - Mẫu câu: *I'm going to talk about a colleague of mine, Minh, who won...*
-> 2. **Bối cảnh:** quen nhau thế nào, cuộc thi diễn ra khi nào, ở đâu.
->     - Nói gì: làm cùng nhóm bao lâu; cuộc thi là hackathon nội bộ công ty năm ngoái, kéo dài 48 giờ, chủ đề gì.
->     - Mẫu câu: *It was an internal hackathon our company held last year.*
+>     - Nói gì: tên [tên thật], một bạn junior trong nhóm bạn đang dẫn dắt; tên cuộc thi.
+>     - Mẫu câu: *I'm going to talk about [Minh], a junior developer on my team, who won...*
+> 2. **Bối cảnh:** quen nhau thế nào, cuộc thi khi nào, ở đâu.
+>     - Nói gì: cậu ấy vào nhóm khi nào; bạn là người hướng dẫn những tuần đầu (câu chuyện 4); cuộc thi là hackathon nội bộ, kéo dài 48 giờ [xác nhận].
+>     - Mẫu câu: *He joined my team about a year ago, and I was the one who showed him the ropes.*
 > 3. **Mô tả người và cách chuẩn bị:**
->     - Tổng quan: ngoại hình ngắn, tính cách (điềm tĩnh, chăm chỉ, ít nói).
->     - Listing → Pick one: liệt kê phẩm chất (thông minh, kiên trì, giỏi làm nhóm) → chọn sự kiên trì: ở lại muộn nhiều tuần để thử ý tưởng, đọc tài liệu.
->     - Mẫu câu: *He spent weeks staying late to... / He's the kind of person who never gives up.*
+>     - Tổng quan: tính cách (ít nói, chăm chỉ, ham học).
+>     - Listing: thông minh, kiên trì, làm nhóm tốt → Pick one: kiên trì: ở lại muộn thử ý tưởng, hỏi bạn góp ý về thiết kế hệ thống.
+>     - Mẫu câu: *He spent weeks staying late to... / He kept coming to me with questions about...*
 > 4. **Khoảnh khắc cụ thể:** lúc công bố kết quả.
->     - Nói gì: khung cảnh (hội trường, cả công ty xem online), phản ứng của anh ấy (im lặng rồi cười lớn), cả phòng vỗ tay, anh ấy nói gì khi nhận giải.
->     - Mẫu câu: *When they announced his team's name, he just... / The whole room burst into applause.*
-> 5. **Ý nghĩa của chiến thắng:**
->     - Với người đó: được ghi nhận, cơ hội sang Nhật trình bày, thăng tiến.
->     - Với bạn: bài học về kiên trì; động lực tham gia lần sau.
->     - Mẫu câu: *It was a turning point for him. / It showed me that...*
+>     - Nói gì: cả công ty xem online, tên đội cậu ấy được gọi, cậu ấy quay sang nhìn bạn, nói cảm ơn trước mọi người.
+>     - Mẫu câu: *When they announced his team's name, he turned round and... / The whole room burst into applause.*
+> 5. **Ý nghĩa:**
+>     - Với cậu ấy: được ghi nhận, tự tin hơn. Với bạn: niềm vui của người dẫn dắt nhóm, bằng chứng việc kèm người mới có giá trị.
+>     - Mẫu câu: *I felt as proud as if I'd won it myself. / It showed me that mentoring really pays off.*
 >
 > **Mẫu câu nên dùng:** *It was well deserved.* / *He'd put in so much effort.* / *He was over the moon.* / *It opened a lot of doors for him.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 3 (đồng nghiệp); nếu không ai thắng cuộc thi, chọn vận động viên Việt Nam thắng SEA Games và đổi khối 4 thành khoảnh khắc bạn xem trận đấu.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 4 (kèm các bạn junior). Nếu trong nhóm chưa ai thắng cuộc thi, chọn một vận động viên Việt Nam bạn biết (mục I3 trong hồ sơ) và đổi khối 4 thành khoảnh khắc bạn xem trận đấu.
 >
 > **Part 3 · *Is competition good for children?***
 > - Dàn ý: Frame 3 (Two-sided)
@@ -161,7 +160,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/4130
 - **Dạng khung:** Dạng 1 (Người)
-- **Câu chuyện có thể dùng:** Câu chuyện 3 (đồng nghiệp, trưởng nhóm)
+- **Câu chuyện có thể dùng:** Câu chuyện 10 (mục tiêu Solution Architect): một architect bạn muốn học hỏi
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -171,29 +170,29 @@
     - *How will workplaces change in the future?* · Frame 4 (T.P.C)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** chị Lan, trưởng nhóm dự án khác / gặp ở buổi họp liên phòng ban / giải thích vấn đề phức tạp rất đơn giản / lần chị giúp gỡ lỗi / muốn học cách lãnh đạo
+> **5 từ khóa mẫu (1 phút chuẩn bị):** [tên], Solution Architect ở công ty / gặp trong buổi review thiết kế hệ thống / giải thích kiến trúc phức tạp rất dễ hiểu / buổi họp khách hàng căng thẳng / muốn học để lên Solution Architect
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** người đó là ai.
->     - Nói gì: tên, vị trí (trưởng nhóm dự án khác, giảng viên khóa học, bạn cùng học IELTS).
->     - Mẫu câu: *The person I'd like to talk about is Lan, a team leader in another department.*
-> 2. **Bối cảnh:** gặp ở đâu, khi nào, trong tình huống nào.
->     - Nói gì: buổi họp liên phòng ban về một dự án chung; đã gặp mấy lần; lần đầu ấn tượng ra sao.
->     - Mẫu câu: *We met during a cross-team meeting about...*
-> 3. **Mô tả:** ngoại hình ngắn và phong cách làm việc.
->     - Listing: giỏi kỹ thuật, bình tĩnh, giao tiếp tốt, tôn trọng ý kiến người khác.
->     - Pick one → Describe → Why: cách giải thích vấn đề phức tạp bằng ví dụ đơn giản; vì sao ấn tượng (bạn hay gặp khó khi giải thích cho khách hàng).
->     - Mẫu câu: *What impressed me most was the way she... / She has a knack for...*
-> 4. **Khoảnh khắc cụ thể:** một buổi họp căng thẳng.
->     - Nói gì: chuyện gì xảy ra (khách hàng phàn nàn, dự án chậm), mọi người phản ứng ra sao, chị ấy nói gì, làm gì để xoay chuyển tình hình.
->     - Mẫu câu: *I remember one meeting where everything was going wrong... / She calmly...*
+>     - Nói gì: tên [cần điền], vai trò (Solution Architect hoặc senior architect trong công ty hoặc phía khách hàng).
+>     - Mẫu câu: *The person I'd like to talk about is [name], a solution architect I've worked with on a few projects.*
+> 2. **Bối cảnh:** gặp ở đâu, khi nào.
+>     - Nói gì: buổi review thiết kế hệ thống cho dự án [cần điền]; bạn trình bày phần backend của nhóm mình.
+>     - Mẫu câu: *We first met at a design review, where I was presenting my team's part of the system.*
+> 3. **Mô tả người và phong cách làm việc:**
+>     - Listing: hiểu sâu cả kỹ thuật lẫn nghiệp vụ, bình tĩnh, giao tiếp tốt bằng tiếng Anh.
+>     - Pick one → Describe → Why: cách giải thích kiến trúc phức tạp bằng ví dụ đơn giản cho khách hàng không biết kỹ thuật; ấn tượng vì đó chính là kỹ năng bạn còn thiếu.
+>     - Mẫu câu: *What impressed me most was the way [he/she]... / [He/She] has a knack for...*
+> 4. **Khoảnh khắc cụ thể:**
+>     - Nói gì: buổi họp khách hàng phàn nàn về hiệu năng; mọi người căng thẳng; người đó vẽ sơ đồ lên bảng, giải thích nguyên nhân và hướng xử lý trong vài phút; không khí đổi hẳn.
+>     - Mẫu câu: *I remember one meeting where the client was really unhappy... / [He/She] calmly drew a diagram and...*
 > 5. **Vì sao muốn làm cùng:**
->     - Nói gì: học kỹ năng lãnh đạo, giao tiếp; hy vọng có dự án chung; kế hoạch (xin tham gia dự án của chị ấy).
->     - Mẫu câu: *I think I'd learn a lot from... / I'd jump at the chance to...*
+>     - Nói gì: muốn học cách thiết kế hệ thống và trình bày với khách hàng để lên Solution Architect (câu chuyện 10).
+>     - Mẫu câu: *Working with [him/her] would be the best way to prepare for... / I'd jump at the chance to...*
 >
 > **Mẫu câu nên dùng:** *She has a knack for...* / *She's incredibly level-headed.* / *She makes complicated things sound simple.* / *I'd jump at the chance to...*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 3 (đồng nghiệp, trưởng nhóm). Đổi tên và chi tiết cho đúng người thật.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 10 (mục tiêu Solution Architect). Hỏi người thật theo mục A6 trong [[0. Hồ sơ cá nhân khi nói]].
 >
 > **Part 3 · *What makes a good colleague?***
 > - Dàn ý: Frame 7 (Classify)
@@ -230,7 +229,7 @@
 > - and explain why you remember this teacher
 
 - **Dạng khung:** Dạng 1 (Người) kết hợp Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Một thầy cô thật; nếu thiếu ý, dùng ví dụ thầy dạy toán ở mục 1 của [[1. Khung trả lời Part 2]] làm mẫu cấu trúc
+- **Câu chuyện có thể dùng:** Thầy cô thật ở trường đại học tại Đà Nẵng; nối khối 5 với câu chuyện 4 (kèm junior)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -240,29 +239,29 @@
     - *Should teachers be paid more?* · Frame 6 (Partly agree)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** cô Hà dạy tin học lớp 10 / câu lạc bộ lập trình / bài web đầu tiên / "lỗi là bạn" / chọn ngành IT
+> **5 từ khóa mẫu (1 phút chuẩn bị):** thầy hoặc cô [tên] / dạy [môn] ở trường đại học tại Đà Nẵng / bài lập trình đầu tiên bị lỗi / câu "lỗi là bạn của lập trình viên" / chọn theo backend, thái độ khi làm team lead
 >
 > **Dàn ý 5 khối:**
-> 1. **Mở đề:** thầy cô là ai, dạy môn gì, khi nào.
->     - Nói gì: tên, môn, lớp mấy, trường nào.
->     - Mẫu câu: *I'd like to talk about Ms Hà, who taught me computer science in Year 10.*
+> 1. **Mở đề:** thầy cô là ai, dạy môn gì, ở đâu.
+>     - Nói gì: tên [cần điền], môn (lập trình, cơ sở dữ liệu), trường ở Đà Nẵng nơi bạn học IT.
+>     - Mẫu câu: *I'd like to talk about [name], who taught me programming at university in Da Nang.*
 > 2. **Bối cảnh:** bạn lúc đó thế nào.
->     - Nói gì: chưa biết mình muốn gì, máy tính chỉ để chơi game; cô xuất hiện ra sao (giáo viên mới, mở câu lạc bộ).
->     - Mẫu câu: *At that point, I had no idea what I wanted to do.*
+>     - Nói gì: năm nhất, mới học code, hay nản khi chương trình chạy sai.
+>     - Mẫu câu: *At that point, I was close to giving up on programming.*
 > 3. **Mô tả thầy cô:**
->     - Ngoại hình, tuổi, phong cách (giọng nói, cách ăn mặc).
->     - Listing: kiên nhẫn, hài hước, mở câu lạc bộ lập trình → Pick one: cách cô khuyến khích học sinh tự thử và chấp nhận sai.
->     - Mẫu câu: *She had this way of making you feel that mistakes were normal.*
-> 4. **Khoảnh khắc cụ thể:** lần làm trang web đầu tiên bị lỗi.
->     - Nói gì: bạn ngồi ở phòng máy, bực bội, định bỏ; cô đến nói "lỗi là bạn của lập trình viên"; hai cô trò cùng tìm lỗi; trang web chạy được.
->     - Mẫu câu: *I remember sitting there, totally frustrated, when she said...*
-> 5. **Ảnh hưởng và vì sao nhớ:**
->     - Nói gì: quyết định chọn ngành IT; thái độ với lỗi trong công việc hiện tại; bạn có còn liên lạc với cô không.
->     - Mẫu câu: *I don't think I'd be doing this job if it weren't for her. / It stuck with me.*
+>     - Ngoại hình, tuổi, phong cách giảng dạy.
+>     - Listing: kiên nhẫn, hài hước, hay cho bài thực tế → Pick one: khuyến khích sinh viên tự sửa lỗi thay vì đưa đáp án.
+>     - Mẫu câu: *[He/She] had this way of making you feel that mistakes were normal.*
+> 4. **Khoảnh khắc cụ thể:**
+>     - Nói gì: buổi thực hành, chương trình của bạn lỗi liên tục; thầy cô ngồi xuống, hỏi từng câu để bạn tự tìm ra lỗi; câu nói bạn còn nhớ.
+>     - Mẫu câu: *I remember sitting in the lab, totally frustrated, when [he/she] said...*
+> 5. **Ảnh hưởng:**
+>     - Nói gì: bạn theo nghề backend; giờ là team lead, bạn dùng đúng cách đó để kèm các bạn junior (câu chuyện 4).
+>     - Mẫu câu: *Now that I lead a team, I try to do exactly the same with my juniors.*
 >
 > **Mẫu câu nên dùng:** *She sparked my interest in...* / *She believed in me when...* / *It stuck with me.* / *I owe a lot to her.*
 >
-> **Bẻ lái từ kho câu chuyện:** Có thể bẻ lái từ câu chuyện 3 (trưởng nhóm như một người thầy) nếu không nhớ rõ thầy cô cũ.
+> **Bẻ lái từ kho câu chuyện:** Nối khối 5 với câu chuyện 4 (kèm các bạn junior). Điền tên và môn thật theo mục B trong [[0. Hồ sơ cá nhân khi nói]].
 >
 > **Part 3 · *What makes a good teacher?***
 > - Dàn ý: Frame 7 (Classify)
@@ -299,7 +298,7 @@
 > - and explain why you enjoy spending time with this person
 
 - **Dạng khung:** Dạng 1 (Người) kết hợp Dạng 5 (Hoạt động, thói quen)
-- **Câu chuyện có thể dùng:** Câu chuyện 5 (một người thân trong gia đình)
+- **Câu chuyện có thể dùng:** Câu chuyện 5 (vợ và con trai): kể về con trai
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -309,29 +308,29 @@
     - *Should grandparents help to raise children?* · Frame 3 (Two-sided)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** em gái / cùng sống ở TP.HCM / cà phê sáng Chủ nhật / lần chuyển nhà giúp nhau / người hiểu mình nhất
+> **5 từ khóa mẫu (1 phút chuẩn bị):** con trai [5 tuổi] / sống cùng ở TP.HCM / tối đi dạo công viên, cuối tuần đi chơi / [một kỷ niệm gần đây] / niềm vui sau giờ làm
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** người đó là ai.
->     - Nói gì: quan hệ, tuổi, nghề.
->     - Mẫu câu: *I'm going to talk about my younger sister, who also lives in Ho Chi Minh City.*
-> 2. **Bối cảnh:** vì sao hai người gặp nhiều.
->     - Nói gì: cùng chuyển lên thành phố làm việc, xa bố mẹ nên dựa vào nhau; sống gần nhau hay chung nhà.
->     - Mẫu câu: *Since we both moved here for work, we've become each other's family in the city.*
-> 3. **Hoạt động chung và tần suất:**
->     - Listing: đi ăn, cà phê, gọi video cho bố mẹ, đi chợ cuối tuần.
->     - Pick one → Describe: cà phê sáng Chủ nhật: quán nào, gọi món gì, nói chuyện gì (công việc, bố mẹ, kế hoạch).
->     - Mẫu câu: *Our little ritual is... / We see each other at least once a week.*
-> 4. **Khoảnh khắc cụ thể:** lần chuyển nhà.
->     - Nói gì: khi nào, trời mưa, hai người khiêng đồ, sự cố vui (rơi thùng sách), cuối ngày ăn mì gói giữa đống thùng.
->     - Mẫu câu: *I'll never forget the day I moved flats...*
-> 5. **Vì sao thích ở bên người đó:**
->     - Nói gì: thoải mái, không cần giả vờ, nói thẳng với nhau; trân trọng vì sống xa bố mẹ.
->     - Mẫu câu: *With her, I can just be myself. / She always tells it like it is.*
+>     - Nói gì: con trai, bao nhiêu tuổi, đang đi học mẫu giáo [xác nhận].
+>     - Mẫu câu: *I'm going to talk about my son, who's [five] years old.*
+> 2. **Bối cảnh:** vì sao hai bố con có nhiều thời gian bên nhau.
+>     - Nói gì: cả nhà sống ở TP.HCM, ông bà ở Đà Nẵng nên ngoài giờ làm và cuối tuần bạn dành gần hết thời gian cho vợ và con.
+>     - Mẫu câu: *Since my parents are back in Da Nang, it's just the three of us here, so evenings and weekends are family time.*
+> 3. **Mô tả và hoạt động chung:**
+>     - Tính cách, sở thích của con [cần điền: thích gì, hay hỏi gì].
+>     - Listing: đi dạo công viên gần nhà buổi tối, chơi ở trung tâm thương mại cuối tuần, đọc truyện trước khi ngủ → Pick one: đi dạo công viên; con chạy trước, bạn chạy theo.
+>     - Mẫu câu: *Our little ritual is... / He's at that age where he asks "why" about everything.*
+> 4. **Khoảnh khắc cụ thể:**
+>     - Nói gì: [một kỷ niệm thật gần đây: câu nói ngộ nghĩnh, lần đầu tự đạp xe, lần con ốm]; bạn đang ở đâu, con nói gì, bạn cảm thấy thế nào.
+>     - Mẫu câu: *I'll never forget the day he... / He looked up at me and said...*
+> 5. **Vì sao thích ở bên con:**
+>     - Nói gì: giúp quên áp lực công việc; con thay đổi cách bạn sắp xếp thời gian (cố về đúng giờ, cuối tuần không mở máy).
+>     - Mẫu câu: *No matter how stressful work is, ten minutes with him and I forget all about it.*
 >
 > **Mẫu câu nên dùng:** *We're very close in age.* / *We look out for each other.* / *It's become a bit of a ritual.* / *She always tells it like it is.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 5; đổi người (anh chị em, bố mẹ, anh em họ) cho đúng thực tế.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 5 (vợ và con trai). Điền chi tiết thật theo mục E2 trong [[0. Hồ sơ cá nhân khi nói]].
 >
 > **Part 3 · *Do families spend less time together than in the past?***
 > - Dàn ý: Frame 1 (C.D.R)

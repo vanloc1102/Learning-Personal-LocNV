@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Khung gợi ý xem [[1. Khung trả lời Part 1]]. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi. Khi gặp câu hỏi chủ đề này trong bộ đề mới, thêm link vào đúng câu.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Do you know your neighbours well?
 
@@ -18,15 +18,15 @@
 > **Hướng trả lời:** Thành phố, chung cư thì thường chỉ chào hỏi; so với quê (biết hết mọi người).
 >
 > **Dàn ý:** Khung 1 (D-R-E), 3 bước:
-> 1. **Mức độ quen:** không nhiều, chỉ chào hỏi.
-> 2. **Lý do:** sống chung cư, ai cũng bận, giờ giấc khác nhau.
-> 3. **So sánh với quê:** ở quê ai cũng biết nhau, hàng xóm sang chơi không cần báo trước.
+> 1. **Mức độ quen:** quen mặt, chào hỏi các nhà trong hẻm.
+> 2. **Lý do:** ai cũng đi làm cả ngày; [xác nhận theo mục D5].
+> 3. **So sánh với Đà Nẵng:** ở quê hàng xóm thân như họ hàng.
 >
 > **Mẫu câu nên dùng:** *Not very well, to be honest.* / *We just say hello in the lift.* / *It's very different from my hometown, where...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Not very well, to be honest. In my building, we usually just say hello in the lift or the corridor, because everyone's busy with work. It's very different from my hometown, where everyone knows everyone and neighbours drop by without calling first.*
+> *Fairly well, actually. We live in a small alley, so we see the same faces every day, and the kids play together. It's not as close as in Da Nang, where neighbours drop by without calling first, but people here are friendly.*
 
 ## 2. How often do you see your neighbours?
 
@@ -47,7 +47,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Almost every day, but only briefly. We bump into each other when we're parking our motorbikes in the morning. We only really chat during building events or around Tết, when people exchange small gifts.*
+> *Almost every day, but only briefly, when I'm taking my motorbike out in the morning or when the kids are playing in the alley in the evening. We only really sit down and chat around Tết.*
 
 ## 3. Have your neighbours ever helped you?
 

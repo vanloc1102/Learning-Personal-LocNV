@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Mỗi câu gồm link luyện, khung gợi ý (xem [[1. Khung trả lời Part 1]]) và chỗ ghi dàn ý, bài nói, lỗi tự sửa. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Where is your hometown?
 
@@ -16,18 +16,18 @@
 - **Tự sửa:**
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **Hướng trả lời:** Tên tỉnh, vị trí (miền nào, cách TP.HCM bao xa), một đặc điểm nổi bật. Thay [tên quê] bằng nơi thật.
+> **Hướng trả lời:** Đà Nẵng, thành phố biển miền Trung; nổi tiếng với biển và các cây cầu trên sông Hàn; so với TP.HCM sạch và thư thả hơn.
 >
 > **Dàn ý:** Khung 6 (Miêu tả), 3 bước:
-> 1. **Tên và vị trí:** tỉnh hoặc thành phố nào, thuộc miền nào, cách nơi bạn đang sống bao xa (giờ đi xe).
-> 2. **Đặc điểm nổi bật:** nổi tiếng về gì (đặc sản, cảnh đẹp, nghề truyền thống), quy mô (nhỏ, yên tĩnh), cảnh vật (cánh đồng, sông, biển).
-> 3. **Cảm nhận và quan hệ hiện tại:** so với thành phố đang sống; bạn về quê bao lâu một lần, nhớ điều gì nhất.
+> 1. **Tên và vị trí:** Đà Nẵng, thành phố ven biển miền Trung, cách TP.HCM khoảng 1 giờ 15 phút bay.
+> 2. **Đặc điểm nổi bật:** biển Mỹ Khê, các cây cầu trên sông Hàn (Cầu Rồng), gần Hội An và Bà Nà; món đặc sản [cần điền: mì Quảng?].
+> 3. **Cảm nhận và quan hệ hiện tại:** so với TP.HCM: sạch, ít kẹt xe, thư thả; bố mẹ vẫn ở đó, bạn về dịp Tết và hè.
 >
-> **Mẫu câu nên dùng:** *I'm originally from..., which is about... hours from...* / *It's best known for...* / *It's much quieter than...*
+> **Mẫu câu nên dùng:** *I'm originally from Da Nang, a coastal city in central Vietnam.* / *It's best known for...* / *Compared with Ho Chi Minh City, it's much...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I'm originally from [tên quê], a province about [số] hours from Ho Chi Minh City. It's best known for [đặc sản hoặc cảnh đẹp], and it's much quieter than the city, with lots of rice fields and a slower pace of life.*
+> *I'm originally from Da Nang, a coastal city in central Vietnam. It's best known for its beaches and the bridges over the Han River, and it's very close to Hoi An. Compared with Ho Chi Minh City, it's much cleaner and more relaxed, and my parents still live there, so I go back every Tết.*
 
 ## 2. Is there anything you dislike about your hometown?
 
@@ -41,15 +41,15 @@
 > **Hướng trả lời:** Nêu một nhược điểm cụ thể (ít việc làm, thiếu tiện ích, ngập nước), giọng công bằng, tránh chê nặng.
 >
 > **Dàn ý:** Khung 1 (D-R-E), 3 bước:
-> 1. **Một nhược điểm:** chọn một điểm cụ thể (ít việc làm, thiếu tiện ích giải trí, ngập lụt mùa mưa, giao thông công cộng kém).
-> 2. **Ví dụ hoặc hệ quả:** ảnh hưởng thế nào (người trẻ phải lên thành phố, trong đó có bạn).
-> 3. **Cân bằng lại:** mặt tốt đi kèm (chính vì vậy mà yên bình), giọng công bằng.
+> 1. **Một nhược điểm:** ít cơ hội ngành công nghệ hơn TP.HCM.
+> 2. **Ví dụ, hệ quả:** đó là lý do bạn vào TP.HCM năm [2021]; bão lũ cuối năm.
+> 3. **Cân bằng lại:** ngoài ra là nơi rất dễ sống.
 >
 > **Mẫu câu nên dùng:** *If I had to pick one thing,...* / *There aren't many job opportunities, especially in...* / *But that's also what keeps it peaceful.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *If I had to pick one thing, it'd be the lack of job opportunities, especially in tech. That's actually why most young people, including me, end up moving to big cities. But that's also what keeps it peaceful, so it's a bit of a trade-off.*
+> *If I had to pick one thing, it'd be that there are fewer opportunities in tech than in Ho Chi Minh City, which is why I moved here. It also gets hit by storms quite often at the end of the year. Apart from that, it's a really easy place to live.*
 
 ## 3. Do you think you will continue living in your hometown for a long time?
 
@@ -63,15 +63,15 @@
 > **Hướng trả lời:** Bạn đã chuyển lên thành phố: trả lời "không, ít nhất là trong vài năm tới", lý do công việc, mở khả năng quay về sau này.
 >
 > **Dàn ý:** Khung 5 (Tương lai), 3 bước:
-> 1. **Dự định:** không (ít nhất trong vài năm tới) hoặc có.
-> 2. **Lý do:** công việc, cơ hội nghề nghiệp ở thành phố; gia đình, chi phí sống.
-> 3. **Khả năng sau này:** có thể quay về khi nào (về hưu, lập gia đình, làm việc từ xa).
+> 1. **Hiện tại:** bạn đã sống ở TP.HCM từ [2021].
+> 2. **Vài năm tới:** chưa về vì sự nghiệp ở đây.
+> 3. **Khả năng sau này:** có thể quay về; nơi tốt để con lớn lên, gần biển và ông bà.
 >
 > **Mẫu câu nên dùng:** *Not for the foreseeable future.* / *My career is based in...* / *I might move back when I retire.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Not for the foreseeable future, no. My career is based in Ho Chi Minh City, and there just aren't many software jobs back home. That said, I can imagine moving back later in life, maybe when I'm older and want a quieter lifestyle.*
+> *Actually, I moved to Ho Chi Minh City a few years ago, and my career is here for now. But I can definitely see us moving back one day. Da Nang would be a lovely place for my son to grow up, close to the sea and to his grandparents.*
 
 ## 4. Do you prefer to live in a house or an apartment?
 
@@ -85,15 +85,15 @@
 > **Hướng trả lời:** Chọn một, lý do (an ninh, tiện ích vs không gian, riêng tư), nêu mặt kia.
 >
 > **Dàn ý:** Khung 2 (Đối lập), 3 bước:
-> 1. **Lựa chọn:** nhà riêng hay căn hộ.
-> 2. **Lý do:** nhà riêng rộng, riêng tư, không bị hàng xóm làm ồn; căn hộ an ninh, tiện ích (hồ bơi, gym, bảo vệ).
-> 3. **Mặt kia, phù hợp với ai:** người độc thân ở thành phố hợp căn hộ; gia đình có con hợp nhà riêng.
+> 1. **Hiện tại và lựa chọn:** đang thuê nguyên căn nhà [2 tầng, trong hẻm yên tĩnh, xác nhận]; thích nhà hơn căn hộ.
+> 2. **Lý do:** có chỗ cho con chạy chơi, không có hàng xóm ngay trên đầu.
+> 3. **Mặt kia:** căn hộ an ninh, tiện ích tốt, hợp người độc thân.
 >
 > **Mẫu câu nên dùng:** *Ideally, I'd go for..., because...* / *Apartments are more convenient, but...* / *The downside is...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Ideally, I'd go for a house, because you get more space and more privacy, and you don't have to deal with noisy neighbours upstairs. Apartments are more convenient and secure, though, so for a single person in the city they make a lot of sense.*
+> *We rent a whole house in [Tan Son ward], and I definitely prefer it to an apartment. It's nothing fancy, but it has enough room for the three of us, my son has space to run around, and we don't have neighbours right above us. Apartments are more secure, though, so I can see why young single people like them.*
 
 ## 5. Are the transport facilities near your home very good?
 
@@ -129,15 +129,15 @@
 > **Hướng trả lời:** Dùng hiện tại hoàn thành (*I've lived here for...*), lý do chuyển đến, cảm nhận.
 >
 > **Dàn ý:** Khung 4 (Quá khứ và hiện tại), 3 bước:
-> 1. **Thời gian:** dùng hiện tại hoàn thành (*I've been living here for about three years*).
-> 2. **Lý do chuyển đến:** gần công ty, giá thuê hợp lý, khu yên tĩnh; trước đó ở đâu.
-> 3. **Cảm nhận hiện tại:** ban đầu thế nào, giờ ra sao (*it really feels like home now*), điều bạn thích nhất ở khu này.
+> 1. **Thời gian:** khoảng [X] năm (hiện tại hoàn thành).
+> 2. **Lý do chuyển đến:** [cần điền: gần chỗ làm, rộng hơn, khi có con].
+> 3. **Cảm nhận hiện tại:** giờ thấy như nhà; điều thích nhất (yên tĩnh, có công viên nhỏ gần nhà).
 >
 > **Mẫu câu nên dùng:** *I've been living here for about... years.* / *I moved here because...* / *It really feels like home now.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I've been living here for about three years now. I moved here because it's closer to my office and the rent was reasonable. At first it felt a bit unfamiliar, but now it really feels like home, especially since I found the park nearby.*
+> *About [X] years. We moved in because [it was bigger and closer to my office], and it really feels like home now, especially since we found the little park nearby.*
 
 ## 7. Do you like the area that you live in?
 
@@ -178,6 +178,10 @@ Chi tiết: _For instance… / There's this one thing —…_
 > 3. **Ví dụ hoặc so sánh:** bạn làm gì ở đó sau giờ làm; so với khu trung tâm ồn ào; vì sao hợp với tính cách bạn.
 >
 > **Mẫu câu nên dùng:** *It's nothing special, but it suits me.* / *a peaceful, quiet place with a lot of trees around* / *the hectic city life just isn't for me*
+>
+> **Bài mẫu (khoảng band 7):**
+>
+> *Yeah, I really do. It's nothing special, but it suits us: it's a quiet alley with a lot of trees around, and there's a little park nearby where I can unwind after a long day. Honestly, the hectic city life just isn't for me.*
 
 ## 8. Where do you like to go in that area?
 
@@ -277,14 +281,14 @@ Chi tiết: _I tend to… / More often than not, I'll…_
 >
 > **Dàn ý:** Khung 5 (Tương lai), 3 bước:
 > 1. **Dự định:** ở thêm vài năm.
-> 2. **Lý do hiện tại:** gần công ty, yên tĩnh, quen thuộc.
-> 3. **Điều kiện thay đổi:** lập gia đình, mua nhà, đổi việc thì có thể chuyển ra ngoại ô hoặc về quê.
+> 2. **Lý do hiện tại:** quen khu, yên tĩnh, hợp với gia đình.
+> 3. **Điều kiện thay đổi:** khi con vào tiểu học (chọn trường), nếu mua nhà, hoặc nếu quay về Đà Nẵng.
 >
 > **Mẫu câu nên dùng:** *At least for the next few years.* / *It suits my lifestyle at the moment.* / *If I..., I might move to...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *At least for the next few years, yes. It suits my lifestyle at the moment, since it's close to work and quiet in the evenings. But if I start a family or buy a place, I might move further out where homes are bigger and cheaper.*
+> *For the next few years, probably. It's quiet and it suits our family. But things might change when my son starts primary school, because we'll want to live near a good school. And one day we might move back to Da Nang.*
 
 ## 12. Would you recommend your city to others?
 

@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 3
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Frame gợi ý xem [[1. Khung trả lời Part 3]]. Mỗi câu trả lời khoảng **4–6 câu, 30–60 giây**; ví dụ nên là xã hội chung hoặc Việt Nam, không chỉ chuyện cá nhân.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Why do people buy things they don't need?
 

@@ -5,7 +5,7 @@
 > [!info] Đề Part 2
 > Mỗi đề gồm cue card, link luyện, dạng khung (xem [[1. Khung trả lời Part 2]]) và câu chuyện có thể dùng (xem [[2. Kho câu chuyện Part 2]]). Mỗi đề có thêm 3 câu Part 3 đi kèm. Chuẩn bị 1 phút bằng 5 từ khóa, nói đủ 2 phút.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Describe a useful object that you cannot live without
 
@@ -19,7 +19,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/5835
 - **Dạng khung:** Dạng 2 (Đồ vật)
-- **Câu chuyện có thể dùng:** Câu chuyện 4 (laptop làm việc) hoặc một món đồ dùng hằng ngày
+- **Câu chuyện có thể dùng:** Câu chuyện 11 (laptop làm việc)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -51,7 +51,7 @@
 >
 > **Mẫu câu nên dùng:** *It goes everywhere with me.* / *It's become an extension of me.* / *I'd be completely lost without it.* / *I panicked when...*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 4 (đồ công nghệ dùng hằng ngày). Có thể đổi thành điện thoại nếu muốn.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 11 (laptop làm việc). Có thể đổi thành điện thoại nếu đúng với bạn hơn (mục L4 trong hồ sơ).
 >
 > **Part 3 · *Which household items have changed people's lives the most?***
 > - Dàn ý: Frame 7 (Classify)
@@ -90,7 +90,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/4139
 - **Dạng khung:** Dạng 2 (Đồ vật) kết hợp Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 4: kể **một lần** dùng nó gặp khó
+- **Câu chuyện có thể dùng:** Món đồ thật theo mục L4 trong [[0. Hồ sơ cá nhân khi nói]]; kể **một lần** dùng nó gặp khó
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -122,7 +122,7 @@
 >
 > **Mẫu câu nên dùng:** *It's far from user-friendly.* / *I couldn't figure out how to...* / *I ended up giving up on...* / *In hindsight,...*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 4: kể **một lần** dùng gặp khó. Có thể đổi món đồ: máy giặt mới, điều khiển TV, ứng dụng ngân hàng.
+> **Bẻ lái từ kho câu chuyện:** Món đồ ở đây là ví dụ; thay bằng món thật theo mục L4 trong [[0. Hồ sơ cá nhân khi nói]]. Khối 4 kể **một lần** dùng gặp khó.
 >
 > **Part 3 · *Why do older people often find new technology difficult?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -160,7 +160,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/4137
 - **Dạng khung:** Dạng 7 (Trừu tượng, tương lai) kết hợp Dạng 2 (Đồ vật)
-- **Câu chuyện có thể dùng:** Câu chuyện 9 (một chuyến đi) để giải thích vì sao muốn mua
+- **Câu chuyện có thể dùng:** Món thật theo mục L7 trong hồ sơ; có thể nối với công ty Nhật
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -192,7 +192,7 @@
 >
 > **Mẫu câu nên dùng:** *It's well worth the money.* / *It's built to last.* / *It's much cheaper to buy it there.* / *There are a lot of fakes here.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 9 (chuyến đi): nếu đã đi nước ngoài, kể món muốn mua nhưng chưa mua được.
+> **Bẻ lái từ kho câu chuyện:** Nối với câu chuyện 10 nếu muốn: chuyến sang Nhật, nơi công ty đặt trụ sở. Món đồ thật: mục L7 trong hồ sơ.
 >
 > **Part 3 · *Why do people like to buy foreign products?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -228,7 +228,7 @@
 > - and explain how the person felt about it
 
 - **Dạng khung:** Dạng 2 (Đồ vật) kết hợp Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 5 (người thân): một món quà cho bố mẹ hoặc em
+- **Câu chuyện có thể dùng:** Câu chuyện 5 hoặc bố mẹ ở Đà Nẵng; món quà thật theo mục F4 trong hồ sơ
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -260,7 +260,7 @@
 >
 > **Mẫu câu nên dùng:** *I wanted something practical.* / *It turned out to be the perfect choice.* / *He was secretly delighted.* / *It's the thought that counts.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 5. Đổi người nhận hoặc món quà cho đúng thực tế.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 5 hoặc bố mẹ ở Đà Nẵng. Món quà ở đây là ví dụ; thay bằng món thật theo mục F4 trong hồ sơ.
 >
 > **Part 3 · *Why do people give gifts?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -297,7 +297,7 @@
 > - and explain how you felt about losing it
 
 - **Dạng khung:** Dạng 2 (Đồ vật) kết hợp Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 7 (một lần mắc lỗi) hoặc một lần làm mất ví, điện thoại
+- **Câu chuyện có thể dùng:** Câu chuyện 12 (một lần mắc lỗi) hoặc lần mất đồ thật (mục L8)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -328,7 +328,7 @@
 >
 > **Mẫu câu nên dùng:** *My heart sank.* / *I retraced my steps.* / *I was over the moon when...* / *It restored my faith in people.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 7 (mắc lỗi). Có thể đổi thành mất điện thoại, chìa khóa.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 12 (một lần mắc lỗi). Thay bằng lần mất đồ thật theo mục L8 trong hồ sơ.
 >
 > **Part 3 · *Why do people often lose things?***
 > - Dàn ý: Frame 2 (Multi-reason)

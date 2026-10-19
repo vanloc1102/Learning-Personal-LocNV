@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Khung gợi ý xem [[1. Khung trả lời Part 1]]. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi. Khi gặp câu hỏi chủ đề này trong bộ đề mới, thêm link vào đúng câu.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Do you have a pet?
 
@@ -18,15 +18,15 @@
 > **Hướng trả lời:** Nếu không: lý do (chung cư, bận), từng nuôi hồi nhỏ, muốn nuôi sau này.
 >
 > **Dàn ý:** Khung 1 hoặc Khung 8, 3 bước:
-> 1. **Trả lời:** hiện không nuôi (hoặc có: con gì, tên gì).
-> 2. **Lý do:** căn hộ nhỏ, đi làm cả ngày, không công bằng cho con vật.
-> 3. **Liên hệ quá khứ hoặc tương lai:** hồi nhỏ từng nuôi con gì; muốn nuôi khi nào, điều kiện gì.
+> 1. **Trả lời:** hiện không nuôi [xác nhận].
+> 2. **Lý do:** cả nhà đi làm, đi học cả ngày; con còn nhỏ.
+> 3. **Quá khứ hoặc tương lai:** con trai muốn nuôi chó; có thể khi con lớn hơn.
 >
-> **Mẫu câu nên dùng:** *Not at the moment.* / *My apartment is too small and I'm out all day.* / *We had a dog when I was a kid.*
+> **Mẫu câu nên dùng:** *Not at the moment.* / *We're out at work and school all day.* / *We had a dog when I was a kid.*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Not at the moment. My apartment is quite small and I'm out at work all day, so it wouldn't be fair on an animal. We had a dog when I was a kid back in my hometown, though, and I still miss having him around.*
+> *Not at the moment. We're out at work and school all day, and our son is still a bit young to look after an animal. He keeps asking for a puppy, though, so I think we'll give in when he's a little older.*
 
 ## 2. What's your favourite animal?
 

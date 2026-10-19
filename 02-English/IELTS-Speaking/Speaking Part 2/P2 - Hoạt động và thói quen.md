@@ -5,7 +5,7 @@
 > [!info] Đề Part 2
 > Đề phổ biến của dạng này, chưa có link luyện. Mỗi đề gồm cue card, dạng khung (xem [[1. Khung trả lời Part 2]]), câu chuyện có thể dùng (xem [[2. Kho câu chuyện Part 2]]) và 3 câu Part 3 đi kèm. Chuẩn bị 1 phút bằng 5 từ khóa, nói đủ 2 phút.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Describe a hobby you enjoy
 
@@ -19,7 +19,7 @@
 > and explain why you enjoy it.
 
 - **Dạng khung:** Dạng 5 (Hoạt động, thói quen)
-- **Câu chuyện có thể dùng:** Câu chuyện 8 (thói quen cuối tuần) hoặc câu chuyện 2
+- **Câu chuyện có thể dùng:** Câu chuyện 2 (công viên gần nhà) hoặc câu chuyện 9 (One Piece)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -51,7 +51,7 @@
 >
 > **Mẫu câu nên dùng:** *I took it up when...* / *It's a great way to unwind.* / *I'm hooked.* / *It's done wonders for my...*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 8 (thói quen mới) hoặc câu chuyện 2 (công viên).
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 2 (công viên gần nhà). Nếu muốn nói về game hoặc phim, dùng câu chuyện 9 (One Piece).
 >
 > **Part 3 · *Why do people need hobbies?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -89,7 +89,7 @@
 > and explain how it helps you stay healthy.
 
 - **Dạng khung:** Dạng 5 (Hoạt động, thói quen)
-- **Câu chuyện có thể dùng:** Câu chuyện 2 (đi dạo ở công viên) hoặc câu chuyện 8
+- **Câu chuyện có thể dùng:** Câu chuyện 2 (đi bộ, chạy bộ ở công viên)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -121,7 +121,7 @@
 >
 > **Mẫu câu nên dùng:** *It was a wake-up call.* / *I try to stick to a routine.* / *It's made a real difference to...* / *Prevention is better than cure.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 2 (công viên) hoặc câu chuyện 8 (thói quen mới).
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 2 (công viên gần nhà). Chi tiết sức khỏe (đau lưng, mắt) là ví dụ; điền theo mục J4 trong hồ sơ.
 >
 > **Part 3 · *Why do many people find it hard to keep fit?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -158,7 +158,7 @@
 > and explain why it took a long time to learn.
 
 - **Dạng khung:** Dạng 5 (Hoạt động, thói quen) kết hợp Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 1 hoặc một kỹ năng lập trình trong công việc
+- **Câu chuyện có thể dùng:** Thời còn là junior (viết code sạch) hoặc câu chuyện 3
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -189,7 +189,7 @@
 >
 > **Mẫu câu nên dùng:** *It didn't come naturally to me.* / *It was a steep learning curve.* / *I gradually got the hang of it.* / *Practice makes perfect.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 1 hoặc câu chuyện 3. Có thể đổi sang kỹ năng ngoài công việc: bơi, nói tiếng Anh.
+> **Bẻ lái từ kho câu chuyện:** Kể thời còn là junior (trước khi lên team lead) như trong bài. Hoặc dùng câu chuyện 3: học cách dẫn dắt nhóm.
 >
 > **Part 3 · *Which is more important for learning a skill, talent or hard work?***
 > - Dàn ý: Frame 6 (Partly agree)
@@ -226,7 +226,7 @@
 > - and explain why you enjoy it
 
 - **Dạng khung:** Dạng 5 (Hoạt động, thói quen)
-- **Câu chuyện có thể dùng:** Câu chuyện 8 (thói quen mới) hoặc một trận bóng đá đội tuyển Việt Nam bạn xem
+- **Câu chuyện có thể dùng:** Môn thể thao thật theo mục J2 trong hồ sơ; hoặc chạy bộ (câu chuyện 2)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -257,7 +257,7 @@
 >
 > **Mẫu câu nên dùng:** *I'm a die-hard fan of...* / *It was nail-biting.* / *The atmosphere was electric.* / *Strangers were hugging each other.*
 >
-> **Bẻ lái từ kho câu chuyện:** Có thể đổi sang môn bạn chơi (cầu lông, chạy bộ) và dùng câu chuyện 8.
+> **Bẻ lái từ kho câu chuyện:** Môn thể thao là ví dụ; điền theo mục J2 trong hồ sơ. Nếu không xem thể thao, nói về chạy bộ (câu chuyện 2).
 >
 > **Part 3 · *Why is football so popular around the world?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -293,7 +293,7 @@
 > - and explain why you enjoyed it
 
 - **Dạng khung:** Dạng 5 (Hoạt động, thói quen) kết hợp Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 9 (một chuyến đi): leo núi, cắm trại
+- **Câu chuyện có thể dùng:** Câu chuyện 7 (chuyến phượt miền Tây)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -303,29 +303,28 @@
     - *What are the risks of outdoor activities?* · Frame 7 (Classify)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** leo núi Bà Đen, Tây Ninh / với nhóm bạn đại học / đi bộ lên từ 4 giờ sáng / mặt trời mọc trên biển mây / mệt nhưng đáng
+> **5 từ khóa mẫu (1 phút chuẩn bị):** phượt miền Tây bằng xe máy / [năm, đi với ai] / Cần Thơ, chợ nổi, đường ven kênh / sáng sớm ra chợ nổi Cái Răng / tự do, thấy đất nước theo cách khác
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** hoạt động gì.
->     - Nói gì: leo núi Bà Đen, ngọn núi cao nhất Nam Bộ (hoặc cắm trại, chèo thuyền).
->     - Mẫu câu: *I'd like to talk about climbing Bà Đen Mountain, the highest peak in southern Vietnam.*
+>     - Mẫu câu: *I'd like to talk about a motorbike road trip I did around the Mekong Delta.*
 > 2. **Bối cảnh:** khi nào, với ai, vì sao.
->     - Nói gì: khoảng hai năm trước, nhóm bạn đại học, như một thử thách; chuẩn bị gì (nước, giày, đèn pin).
->     - Mẫu câu: *I went with a group of university friends about two years ago, mainly as a challenge.*
-> 3. **Mô tả hoạt động:**
->     - Đường lên: bắt đầu 4 giờ sáng, đường đá, dốc, trời tối.
->     - Listing khó khăn: dốc, nóng, mỏi chân, thiếu nước → Pick one: đoạn cuối dốc nhất phải dùng tay bám.
->     - Mẫu câu: *The last part was so steep that we had to use our hands. / We pushed each other on.*
+>     - Nói gì: [năm, đi với ai, mấy ngày: cần điền]; muốn khám phá văn hóa, ẩm thực miền Tây.
+>     - Mẫu câu: *I'd always wanted to see the delta properly, not just from a tour bus.*
+> 3. **Mô tả chuyến đi:**
+>     - Lộ trình: từ TP.HCM xuống Cần Thơ và các tỉnh lân cận; đường ven kênh, cầu nhỏ, vườn trái cây.
+>     - Listing khó khăn và thú vị: nắng, mưa bất chợt, lạc đường, đồ ăn ngon → Pick one: đồ ăn địa phương hoặc đường ven sông.
+>     - Mẫu câu: *The roads ran right alongside the canals. / The food alone was worth the trip.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: lên đỉnh đúng lúc mặt trời mọc trên biển mây; cả nhóm im lặng ngắm; chụp ảnh; cảm giác chinh phục.
->     - Mẫu câu: *We got to the top just as the sun was rising over a sea of clouds. / The view took my breath away.*
+>     - Nói gì: [ví dụ: sáng sớm đi đò ra chợ nổi Cái Răng, ăn hủ tiếu ngay trên thuyền; hoặc một lần xe hỏng giữa đường và được người dân giúp].
+>     - Mẫu câu: *I remember getting up before dawn to catch a boat to the floating market...*
 > 5. **Vì sao thích:**
->     - Nói gì: cảm giác vượt qua giới hạn, tình bạn; đau chân mấy ngày nhưng đáng; muốn leo núi khác.
->     - Mẫu câu: *My legs hurt for days, but it was completely worth it.*
+>     - Nói gì: tự do, thấy cuộc sống miền Tây gần gũi; muốn đưa con đi khi con lớn.
+>     - Mẫu câu: *It gave me a completely different view of the country. / It's still one of my best memories.*
 >
 > **Mẫu câu nên dùng:** *It was a real challenge.* / *We pushed each other on.* / *The view took my breath away.* / *It was worth every step.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 9 (chuyến đi). Đổi sang cắm trại, chèo thuyền nếu đúng với bạn.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 7 (chuyến phượt miền Tây). Điền chi tiết thật theo mục K1 trong hồ sơ.
 >
 > **Part 3 · *Why do people enjoy outdoor activities?***
 > - Dàn ý: Frame 2 (Multi-reason)

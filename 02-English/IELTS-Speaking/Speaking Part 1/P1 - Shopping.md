@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Mỗi câu gồm link luyện, khung gợi ý (xem [[1. Khung trả lời Part 1]]) và chỗ ghi dàn ý, bài nói, lỗi tự sửa. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Do you make a list when you go shopping?
 

@@ -5,7 +5,7 @@
 > [!info] Đề Part 2
 > Đề phổ biến của dạng này, chưa có link luyện. Mỗi đề gồm cue card, dạng khung (xem [[1. Khung trả lời Part 2]]), câu chuyện có thể dùng (xem [[2. Kho câu chuyện Part 2]]) và 3 câu Part 3 đi kèm. Chuẩn bị 1 phút bằng 5 từ khóa, nói đủ 2 phút.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Describe a time when you helped someone
 
@@ -19,7 +19,7 @@
 > and explain how you felt about helping this person.
 
 - **Dạng khung:** Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 3 (đồng nghiệp) hoặc câu chuyện 5 (người thân)
+- **Câu chuyện có thể dùng:** Câu chuyện 4 (kèm các bạn junior)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -29,29 +29,29 @@
     - *Do people help each other less than in the past?* · Frame 1 (C.D.R)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** đồng nghiệp mới vào / dự án đầu tiên, sợ hỏi / ngồi lại sau giờ cùng gỡ lỗi / bạn ấy hoàn thành đúng hạn / giờ thành bạn thân
+> **5 từ khóa mẫu (1 phút chuẩn bị):** bạn junior mới vào nhóm / task đầu tiên, kẹt lỗi hai ngày, ngại hỏi / bạn ngồi lại cùng đọc code / tìm ra lỗi lúc 8 giờ tối / từ đó bạn đổi cách kèm người mới
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** giúp ai, việc gì.
->     - Nói gì: người được giúp (đồng nghiệp mới), việc giúp (gỡ lỗi trong nhiệm vụ đầu tiên).
->     - Mẫu câu: *I'd like to talk about a time I helped a new colleague who'd just joined our team.*
+>     - Nói gì: một bạn junior mới vào nhóm bạn dẫn dắt; giúp gỡ lỗi trong task đầu tiên.
+>     - Mẫu câu: *I'd like to talk about a time I helped a junior developer who'd just joined my team.*
 > 2. **Bối cảnh:** khi nào, tình huống.
->     - Nói gì: khoảng một năm trước; bạn ấy mới vào, dự án gấp, ngại hỏi vì sợ bị đánh giá.
->     - Mẫu câu: *It was about a year ago, and he was struggling with his first task.*
+>     - Nói gì: [thời gian]; bạn ấy mới vào, dự án gấp, ngại hỏi vì sợ bị đánh giá.
+>     - Mẫu câu: *He was struggling with his first task but was too shy to ask for help.*
 > 3. **Mô tả người và vấn đề:**
->     - Người: tuổi, tính cách (ít nói, cẩn thận).
->     - Listing khó khăn: công cụ mới, tài liệu tiếng Nhật, ngại hỏi → Pick one: một lỗi tìm hai ngày chưa ra.
->     - Mẫu câu: *I could tell he was struggling. / He'd been stuck on a bug for two days but was too shy to ask.*
-> 4. **Khoảnh khắc cụ thể:** bạn giúp thế nào.
->     - Nói gì: bạn đề nghị ở lại sau giờ làm; hai người cùng đọc code từng dòng; tìm ra lỗi lúc 8 giờ tối; phản ứng của bạn ấy.
+>     - Người: tính cách (ít nói, cẩn thận).
+>     - Listing: công cụ mới, tài liệu tiếng Nhật, ngại hỏi → Pick one: một lỗi tìm hai ngày chưa ra.
+>     - Mẫu câu: *I could tell something was wrong at the daily stand-up.*
+> 4. **Khoảnh khắc cụ thể:**
+>     - Nói gì: bạn đề nghị ở lại sau giờ; hai người đọc code từng dòng; tìm ra lỗi lúc 8 giờ tối; bạn ấy thở phào.
 >     - Mẫu câu: *I offered to stay behind... / When we finally found the problem, he...*
 > 5. **Ý nghĩa:**
->     - Nói gì: bạn ấy hoàn thành đúng hạn, hai người thành bạn; bạn nhớ lại lúc mình là người mới; giờ bạn chủ động hỏi thăm người mới.
->     - Mẫu câu: *It was a small thing for me, but... / It reminded me of when I was new...*
+>     - Nói gì: bạn ấy hoàn thành đúng hạn; bạn nhận ra người mới cần cảm thấy được phép hỏi; từ đó mỗi người mới đều có một buổi kèm riêng tuần đầu.
+>     - Mẫu câu: *Since then, I make sure every new member gets... / It changed the way I lead my team.*
 >
 > **Mẫu câu nên dùng:** *I could tell he was struggling.* / *I offered to...* / *It was a small thing for me, but...* / *We've been good friends ever since.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 3 (đồng nghiệp) hoặc câu chuyện 5 (giúp bố mẹ dùng điện thoại thông minh).
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 4 (kèm các bạn junior).
 >
 > **Part 3 · *Why do some people not help strangers?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -88,7 +88,7 @@
 > and explain how you felt after making it.
 
 - **Dạng khung:** Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 7 (một lần thất bại) hoặc câu chuyện 10 (kế hoạch)
+- **Câu chuyện có thể dùng:** Câu chuyện 6 (rời Đà Nẵng vào TP.HCM)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -98,28 +98,27 @@
     - *What kinds of decisions are the hardest to make?* · Frame 7 (Classify)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** chuyển lên TP.HCM làm việc / sau khi ra trường / xa gia đình vs cơ hội / tối nói chuyện với bố mẹ / đúng đắn, trưởng thành hơn
+> **5 từ khóa mẫu (1 phút chuẩn bị):** rời Đà Nẵng vào TP.HCM năm [2021] / Covid, Đà Nẵng khó tìm việc / xa bố mẹ, vợ con phải thích nghi / buổi tối cả nhà bàn chuyện / quyết định đúng, sự nghiệp phát triển
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** quyết định gì.
->     - Nói gì: chuyển lên TP.HCM làm việc sau khi tốt nghiệp (hoặc chọn ngành, đổi việc).
->     - Mẫu câu: *I'd like to talk about my decision to move to Ho Chi Minh City for work after graduation.*
-> 2. **Bối cảnh:** thời điểm và các lựa chọn.
->     - Nói gì: năm cuối đại học; hai lời mời: một gần quê, một ở công ty Nhật trong thành phố; hạn trả lời trong một tuần.
->     - Mẫu câu: *I had two offers: one near my hometown and one at a Japanese company in the city.*
+>     - Mẫu câu: *I'd like to talk about my decision to leave Da Nang and move to Ho Chi Minh City for work.*
+> 2. **Bối cảnh:** thời điểm và hoàn cảnh.
+>     - Nói gì: năm [2021], dịch Covid, ngành IT ở Đà Nẵng ít cơ hội, khó tìm việc phù hợp; có lời mời ở TP.HCM.
+>     - Mẫu câu: *It was during the pandemic, and there were very few opportunities in Da Nang at the time.*
 > 3. **Quá trình cân nhắc:**
->     - Listing: lương, cơ hội học hỏi, xa gia đình, chi phí sống → Pick one: xa bố mẹ là khó nhất; vì sao (con lớn, bố mẹ lớn tuổi).
->     - Mẫu câu: *I was torn between... / I weighed up the pros and cons.*
+>     - Listing: cơ hội nghề nghiệp, thu nhập, xa bố mẹ, chi phí sống ở TP.HCM, vợ con phải thích nghi [xác nhận: lúc đó đã có gia đình chưa] → Pick one: xa bố mẹ là khó nhất.
+>     - Mẫu câu: *I was torn between... / I weighed up the pros and cons for weeks.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: bữa tối nói chuyện với bố mẹ; bạn ngập ngừng; bố nói "đi đi, còn trẻ"; mẹ im lặng rồi gật đầu; cảm giác lúc đó.
->     - Mẫu câu: *I remember sitting at the dinner table when my dad said...*
+>     - Nói gì: [buổi tối bàn với vợ hoặc bố mẹ: ai nói gì; hoặc ngày rời Đà Nẵng: ai tiễn, cảm giác trên đường đi].
+>     - Mẫu câu: *I remember the evening when... / On the day we left, my mum...*
 > 5. **Kết quả và ý nghĩa:**
->     - Nói gì: quyết định đúng; trưởng thành, tự lập; giờ về thăm nhà thường xuyên; bài học khi ra quyết định.
->     - Mẫu câu: *Looking back, it was the best decision I've made. / It was a real turning point.*
+>     - Nói gì: quyết định đúng: được làm ở công ty Nhật, lên team lead (câu chuyện 3); vẫn về Đà Nẵng dịp Tết và hè.
+>     - Mẫu câu: *Looking back, it was the right call. / It was a real turning point in my career.*
 >
 > **Mẫu câu nên dùng:** *I was torn between...* / *I weighed up the pros and cons.* / *It was a real turning point.* / *I've never regretted it.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 10 (kế hoạch) hoặc câu chuyện 7. Đổi chi tiết theo thực tế (chọn ngành, đổi việc).
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 6 (rời Đà Nẵng vào TP.HCM). Dùng lại cho *a time you changed a plan*, *a big change in your life*.
 >
 > **Part 3 · *Do young people make decisions differently from older people?***
 > - Dàn ý: Frame 1 (C.D.R)
@@ -188,7 +187,7 @@
 >
 > **Mẫu câu nên dùng:** *I was up to my eyes in work.* / *We were working around the clock.* / *It was a race against time.* / *I was completely drained, but...*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 1 (giai đoạn chạy release): dùng gần như nguyên bản.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 1 (giai đoạn chạy release). Nhấn mạnh vai trò team lead: vừa code vừa gỡ vướng cho nhóm.
 >
 > **Part 3 · *Why are people busier today than in the past?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -226,7 +225,7 @@
 > and explain why it was useful to you.
 
 - **Dạng khung:** Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 3 (học từ đồng nghiệp) hoặc câu chuyện 7
+- **Câu chuyện có thể dùng:** Câu chuyện 3 (lên team lead: học cách dẫn dắt nhóm)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -236,28 +235,27 @@
     - *What skills should adults keep learning?* · Frame 7 (Classify)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** học Docker từ trưởng nhóm / dự án mới cần / buổi chiều thứ Sáu chị hướng dẫn / chạy được lần đầu / tự tin hơn, chia sẻ lại cho người mới
+> **5 từ khóa mẫu (1 phút chuẩn bị):** học cách dẫn dắt nhóm khi lên team lead / giỏi code nhưng chưa biết quản lý người / chia việc, họp 1-1, góp ý / buổi họp 1-1 đầu tiên lúng túng / giờ nhóm làm việc trơn tru hơn
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** học gì.
->     - Nói gì: một kỹ năng hoặc công cụ (Docker), giải thích ngắn nó là gì cho người không biết.
->     - Mẫu câu: *I'd like to talk about the time I learned to use Docker, a tool for running software, at work.*
+>     - Mẫu câu: *I'd like to talk about the time I had to learn how to lead a team, after I was promoted to team lead.*
 > 2. **Bối cảnh:** khi nào, vì sao phải học.
->     - Nói gì: dự án mới cần dùng; bạn chưa từng dùng; hạn chót gần; cảm giác lo.
->     - Mẫu câu: *Our team started a new project that needed it, and I'd never used it before.*
+>     - Nói gì: lên team lead năm [2024], nhóm [4] người; trước đó chỉ lo phần code của mình.
+>     - Mẫu câu: *I was used to being responsible for my own code, not for other people.*
 > 3. **Quá trình học:**
->     - Listing cách học: đọc tài liệu, xem video, hỏi trưởng nhóm → Pick one: buổi hướng dẫn trực tiếp; vì sao hiệu quả hơn tự đọc.
->     - Mẫu câu: *Reading the documents didn't help much, so... / I was completely out of my depth at first.*
+>     - Listing: đọc sách, quan sát quản lý, hỏi người đi trước, thử và sai → Pick one: thử và sai với họp 1-1 và chia việc.
+>     - Mẫu câu: *There was a steep learning curve. / I learned mostly by trial and error.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: chiều thứ Sáu, trưởng nhóm ngồi cạnh, hướng dẫn từng bước; lỗi liên tục; lần chạy được đầu tiên bạn reo lên; cả phòng quay lại nhìn.
->     - Mẫu câu: *She walked me through it step by step. / When it finally worked, I actually cheered out loud.*
+>     - Nói gì: [buổi họp 1-1 đầu tiên: bạn chuẩn bị gì, bạn ấy phản ứng ra sao, chỗ bạn lúng túng; hoặc lần chia việc sai và phải sửa].
+>     - Mẫu câu: *My first one-to-one was pretty awkward...*
 > 5. **Ý nghĩa:**
->     - Nói gì: tự tin hơn với công nghệ mới; giờ dùng mỗi ngày; bạn hướng dẫn lại người mới; bài học về cách học (hỏi người giỏi, thực hành ngay).
->     - Mẫu câu: *It finally clicked when... / Now I'm the one teaching new team members.*
+>     - Nói gì: giờ nhóm làm việc trơn tru; kỹ năng này cần cho Solution Architect (câu chuyện 10).
+>     - Mẫu câu: *It finally clicked when... / It's a skill I'll need even more as a solution architect.*
 >
 > **Mẫu câu nên dùng:** *I was completely out of my depth at first.* / *It finally clicked when...* / *She walked me through it step by step.* / *It's a skill I use every day.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 3 (học từ đồng nghiệp). Có thể đổi thành học một kỹ năng ngoài công việc (bơi, nấu ăn).
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 3 (lên team lead). Nếu muốn kể một công nghệ, điền theo mục A9 trong hồ sơ.
 >
 > **Part 3 · *Is it easier to learn new things when you are young?***
 > - Dàn ý: Frame 1 (C.D.R)
@@ -293,7 +291,7 @@
 > and explain why you enjoyed it.
 
 - **Dạng khung:** Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 5 (người thân), ví dụ một dịp Tết
+- **Câu chuyện có thể dùng:** Câu chuyện 5 và câu chuyện 8: Tết ở Đà Nẵng
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -303,29 +301,28 @@
     - *Are traditional festivals still important to young people?* · Frame 0 (A.R.E.A)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** Tết ở quê năm ngoái / cả đại gia đình tụ họp / gói bánh chưng đêm 28 / ông kể chuyện xưa bên nồi bánh / gắn kết, nhớ mãi
+> **5 từ khóa mẫu (1 phút chuẩn bị):** Tết ở Đà Nẵng / cả nhà về nhà bố mẹ, có em trai / dọn nhà, nấu cỗ, đi biển đầu năm / con trai mừng tuổi ông bà / sum họp sau một năm xa
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** dịp gì.
->     - Nói gì: Tết năm ngoái ở quê với cả gia đình (hoặc tiệc cuối năm công ty, đám cưới bạn).
->     - Mẫu câu: *I'd like to talk about last year's Tết, which I celebrated with my whole family in my hometown.*
-> 2. **Bối cảnh:** về khi nào, ai có mặt, vì sao đặc biệt.
->     - Nói gì: nghỉ một tuần; lần đầu sau nhiều năm các anh chị em họ đều về đủ.
->     - Mẫu câu: *I took a week off work, and for the first time in years, all my cousins were back too.*
+>     - Mẫu câu: *I'd like to talk about last year's Tết, which we celebrated at my parents' house in Da Nang.*
+> 2. **Bối cảnh:** ai có mặt, vì sao đặc biệt.
+>     - Nói gì: bạn, vợ, con trai bay về; em trai cũng về [xác nhận]; cả năm mới gặp đủ.
+>     - Mẫu câu: *It's the one time of year when the whole family is together.*
 > 3. **Mô tả dịp lễ:**
->     - Không khí chuẩn bị, trang trí (hoa mai, câu đối), món ăn.
->     - Listing hoạt động: dọn nhà, gói bánh chưng, chúc Tết, lì xì → Pick one: gói bánh chưng; ai dạy, các bước, bạn gói xấu thế nào.
->     - Mẫu câu: *The whole house was buzzing. / The part I enjoyed most was making bánh chưng.*
+>     - Không khí chuẩn bị, trang trí, món Tết ở miền Trung [cần điền: món nhà bạn hay nấu].
+>     - Listing: dọn nhà, nấu cỗ, chúc Tết, lì xì, ra biển ngày đầu năm → Pick one: [hoạt động thật bạn thích nhất].
+>     - Mẫu câu: *The whole house was buzzing. / The part I enjoyed most was...*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: đêm 28 Tết ngồi canh nồi bánh bên bếp củi; ông kể chuyện thời trẻ; mọi người cười, không ai cầm điện thoại.
->     - Mẫu câu: *We stayed up all night watching the pot, and my grandfather told us...*
+>     - Nói gì: [ví dụ: sáng mùng Một con trai chúc Tết ông bà bằng câu được dạy sẵn, cả nhà cười].
+>     - Mẫu câu: *On the first morning of the new year, my son...*
 > 5. **Ý nghĩa:**
->     - Nói gì: cảm giác gắn kết; trân trọng thời gian với người thân vì cả năm ở xa; muốn năm nào cũng như vậy.
+>     - Nói gì: sum họp sau một năm xa; bạn trân trọng thời gian bên bố mẹ vì sống xa.
 >     - Mẫu câu: *It reminded me what Tết is really about. / It's a memory I'll treasure.*
 >
 > **Mẫu câu nên dùng:** *It was a real family reunion.* / *The whole house was buzzing.* / *We stayed up until the early hours.* / *It's a memory I'll treasure.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 5 (người thân). Có thể đổi sang tiệc cuối năm công ty hoặc đám cưới bạn.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 5 và câu chuyện 8. Điền theo mục E7 trong hồ sơ.
 >
 > **Part 3 · *How have celebrations changed in Vietnam?***
 > - Dàn ý: Frame 1 (C.D.R)
@@ -361,7 +358,7 @@
 > - and explain how you felt about being late
 
 - **Dạng khung:** Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 7 (một lần mắc lỗi): một lần trễ họp vì mưa ngập, kẹt xe
+- **Câu chuyện có thể dùng:** Câu chuyện 12 (trễ họp vì mưa ngập)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -392,7 +389,7 @@
 >
 > **Mẫu câu nên dùng:** *I was running late.* / *Everything that could go wrong did.* / *I was so embarrassed.* / *Fortunately, they were very understanding.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 7 (mắc lỗi). Có thể dùng chung cho đề "a time something went wrong".
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 12 (trễ họp vì mưa ngập). Thay bằng lần trễ thật theo mục D7 trong hồ sơ.
 >
 > **Part 3 · *Why are some people always late?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -428,7 +425,7 @@
 > - and explain why it was good news for you
 
 - **Dạng khung:** Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 10 (kế hoạch, mục tiêu) hoặc tin được lên chức, nhận việc
+- **Câu chuyện có thể dùng:** Câu chuyện 3 (được lên team lead)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -438,29 +435,28 @@
     - *Do the media focus too much on bad news?* · Frame 6 (Partly agree)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** email nhận việc ở công ty Nhật / năm cuối đại học / đọc trên xe buýt / gọi mẹ ngay / bước ngoặt sự nghiệp
+> **5 từ khóa mẫu (1 phút chuẩn bị):** tin được lên team lead năm [2024] / quản lý gọi vào phòng họp / hoàn thành tốt các dự án / về nhà kể với vợ, gọi bố mẹ / bước ngoặt sự nghiệp
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** tin gì.
->     - Nói gì: tin trúng tuyển công việc hiện tại (hoặc đạt band IELTS, được lên chức).
->     - Mẫu câu: *I'd like to talk about the day I found out I'd got my current job.*
-> 2. **Bối cảnh:** hoàn cảnh trước khi nhận tin.
->     - Nói gì: năm cuối đại học; ba vòng phỏng vấn; chờ kết quả nhiều tuần, lo lắng.
->     - Mẫu câu: *It was in my final year at university, after three rounds of interviews.*
+>     - Mẫu câu: *I'd like to talk about the day I found out I was being promoted to team lead.*
+> 2. **Bối cảnh:** trước khi nhận tin.
+>     - Nói gì: bạn đã làm tốt nhiều dự án liên tiếp; không biết mình được đề xuất.
+>     - Mẫu câu: *I'd been working hard on several projects, but I had no idea I'd been recommended.*
 > 3. **Cách nhận tin và nội dung:**
->     - Nói gì: nhận qua email; tiêu đề email; dòng đầu tiên bạn đọc.
->     - Listing cảm xúc: không tin, vui, nhẹ nhõm → Pick one: nhẹ nhõm vì đã kiểm tra hộp thư mỗi giờ suốt nhiều tuần.
->     - Mẫu câu: *I'd been checking my inbox every hour for weeks. / I couldn't believe my eyes.*
+>     - Nói gì: [quản lý gọi vào phòng họp hoặc nhắn tin, xác nhận]; vị trí mới, nhóm [4] người, thay đổi ngạch lương.
+>     - Listing cảm xúc: bất ngờ, vui, hơi lo → Pick one: hơi lo vì chưa từng quản lý ai.
+>     - Mẫu câu: *I was thrilled, but also a bit nervous.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: đọc email trên xe buýt, suýt hét lên; người bên cạnh nhìn; xuống xe gọi mẹ ngay; mẹ nói gì.
->     - Mẫu câu: *I nearly shouted out loud on the bus. / The first person I called was...*
+>     - Nói gì: [về nhà kể với vợ, vợ nói gì; gọi về Đà Nẵng cho bố mẹ].
+>     - Mẫu câu: *The first person I told was my wife... / When I called my parents, my dad...*
 > 5. **Vì sao là tin tốt:**
->     - Nói gì: bước ngoặt sự nghiệp, bố mẹ tự hào, độc lập tài chính; động lực cố gắng.
->     - Mẫu câu: *It was a huge weight off my shoulders. / It was the start of everything I'm doing now.*
+>     - Nói gì: được ghi nhận; bước đầu tiên trên đường lên Solution Architect.
+>     - Mẫu câu: *It was a huge confidence boost. / It was the first step towards...*
 >
 > **Mẫu câu nên dùng:** *I couldn't believe my eyes.* / *I was on cloud nine.* / *The first person I called was...* / *It was a huge weight off my shoulders.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 10. Khi đạt band IELTS mục tiêu, có thể thay bằng tin nhận điểm thi.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 3 (lên team lead).
 >
 > **Part 3 · *How do people usually share good news today?***
 > - Dàn ý: Frame 1 (C.D.R)

@@ -5,7 +5,7 @@
 > [!info] Đề Part 2
 > Đề phổ biến của dạng này, chưa có link luyện. Mỗi đề gồm cue card, dạng khung (xem [[1. Khung trả lời Part 2]]), câu chuyện có thể dùng (xem [[2. Kho câu chuyện Part 2]]) và 3 câu Part 3 đi kèm. Chuẩn bị 1 phút bằng 5 từ khóa, nói đủ 2 phút.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Describe a skill you would like to learn in the future
 
@@ -19,7 +19,7 @@
 > and explain how this skill would help you.
 
 - **Dạng khung:** Dạng 7 (Trừu tượng, tương lai)
-- **Câu chuyện có thể dùng:** Câu chuyện 10 (kế hoạch, kỹ năng muốn học)
+- **Câu chuyện có thể dùng:** Câu chuyện 10 (mục tiêu Solution Architect): thiết kế hệ thống
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -29,27 +29,27 @@
     - *Is it better to learn a skill from a teacher or online?* · Frame 8 (It depends)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** tiếng Nhật / công ty Nhật, đồng nghiệp ở Tokyo / lớp N5 buổi tối sau khi xong IELTS / lần họp phải nhờ phiên dịch / hiểu văn hóa, cơ hội sang Nhật
+> **5 từ khóa mẫu (1 phút chuẩn bị):** thiết kế kiến trúc hệ thống (system design, cloud) / để lên Solution Architect / khóa học online, chứng chỉ cloud, nhận việc thiết kế / buổi review khách hỏi câu bạn chưa trả lời được / mở đường cho bước tiếp theo
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** kỹ năng gì.
->     - Mẫu câu: *The skill I'd really like to learn is Japanese.*
+>     - Mẫu câu: *The skill I'd really like to master is designing large-scale software systems, which is what a solution architect does.*
 > 2. **Bối cảnh:** vì sao muốn học.
->     - Nói gì: làm cho công ty Nhật khoảng 5 năm, chỉ biết vài câu cơ bản; giao tiếp với đồng nghiệp qua tiếng Anh hoặc phiên dịch.
->     - Mẫu câu: *I've been working for a Japanese company for about five years, but I can only say a few basic phrases.*
-> 3. **Mô tả kế hoạch học:**
->     - Listing cách học: lớp buổi tối, ứng dụng, học với đồng nghiệp, xem anime có phụ đề → Pick one: lớp N5 buổi tối; học ở đâu, mấy buổi mỗi tuần, khi nào bắt đầu.
->     - Mẫu câu: *My plan is to sign up for an evening class once I've finished my IELTS.*
+>     - Nói gì: là team lead backend, bạn quen thiết kế một phần hệ thống; Solution Architect cần nhìn toàn bộ và trình bày với khách hàng.
+>     - Mẫu câu: *As a team lead, I design parts of a system, but I want to be able to see the whole picture.*
+> 3. **Kế hoạch học:**
+>     - Listing: khóa online, chứng chỉ cloud [xác nhận], đọc tài liệu kiến trúc, xin tham gia buổi thiết kế của architect → Pick one: xin tham gia buổi thiết kế, học trực tiếp.
+>     - Mẫu câu: *My plan is to... / I've already started...*
 > 4. **Khoảnh khắc khiến bạn muốn học:**
->     - Nói gì: buổi họp mọi người cười vì một câu đùa tiếng Nhật, bạn không hiểu; cảm giác bị bỏ lỡ; sau buổi đó bạn tải ứng dụng học.
->     - Mẫu câu: *I remember a meeting where everyone was laughing at a joke and I had no idea why.*
+>     - Nói gì: [buổi review khách hàng hỏi một câu về khả năng mở rộng hệ thống mà bạn không trả lời trọn vẹn; cảm giác lúc đó].
+>     - Mẫu câu: *I remember a design review where the client asked me... and I couldn't give a complete answer.*
 > 5. **Ý nghĩa:**
->     - Nói gì: hiểu đồng nghiệp và văn hóa hơn; cơ hội làm việc ở Nhật; thử thách cho bản thân.
->     - Mẫu câu: *It would open up a lot of doors for me. / It's been on my to-do list for ages.*
+>     - Nói gì: bước bắt buộc để lên Solution Architect; tiếng Anh tốt cũng là một phần của kỹ năng này.
+>     - Mẫu câu: *It would open up the next stage of my career. / That's also why I'm working on my English.*
 >
 > **Mẫu câu nên dùng:** *I've always wanted to...* / *It's been on my to-do list for ages.* / *I'm planning to... once...* / *It would open up a lot of doors.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 10 (kế hoạch, kỹ năng muốn học).
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 10 (mục tiêu Solution Architect). Điền theo mục A11 trong hồ sơ.
 >
 > **Part 3 · *What skills will be most important in the future?***
 > - Dàn ý: Frame 4 (T.P.C)
@@ -86,7 +86,7 @@
 > and explain why you would like to visit it.
 
 - **Dạng khung:** Dạng 7 (Trừu tượng, tương lai)
-- **Câu chuyện có thể dùng:** Câu chuyện 9 (một chuyến đi) để giải thích vì sao muốn đi
+- **Câu chuyện có thể dùng:** Nơi thật theo mục K3 trong hồ sơ
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -117,7 +117,7 @@
 >
 > **Mẫu câu nên dùng:** *It's been on my bucket list for years.* / *I've heard so much about...* / *I'm saving up for...* / *It would be a dream come true.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 9 (một chuyến đi) để so sánh với nơi đã đến.
+> **Bẻ lái từ kho câu chuyện:** Nơi muốn đến là ví dụ; điền theo mục K3 trong hồ sơ. Nếu chọn Nhật Bản, có thể nối với công ty Nhật bạn đang làm.
 >
 > **Part 3 · *Why do people like to travel abroad?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -154,7 +154,7 @@
 > and explain why it is important to you.
 
 - **Dạng khung:** Dạng 7 (Trừu tượng, tương lai)
-- **Câu chuyện có thể dùng:** Câu chuyện 10 (đạt band IELTS mục tiêu)
+- **Câu chuyện có thể dùng:** Câu chuyện 10 (mục tiêu Solution Architect và IELTS)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -164,27 +164,27 @@
     - *Should parents set goals for their children?* · Frame 6 (Partly agree)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** IELTS 7.0 / để có cơ hội làm việc nước ngoài / học 1 giờ mỗi tối, thi thử mỗi tuần / lần thi thử Speaking chỉ được 6.0 / chứng minh bản thân, mở cửa sự nghiệp
+> **5 từ khóa mẫu (1 phút chuẩn bị):** lên Solution Architect trong [2–3] năm / hiện là team lead backend / học thiết kế hệ thống, IELTS để trình bày với khách / buổi họp phải nhờ BrSE nói giúp / bước tiếp theo của sự nghiệp
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** mục tiêu gì.
->     - Mẫu câu: *The goal I want to achieve is getting an overall band 7 in IELTS.*
+>     - Mẫu câu: *The goal I want to achieve is to become a solution architect within the next [two or three] years.*
 > 2. **Bối cảnh:** quyết định khi nào, vì sao.
->     - Nói gì: vài tháng trước; để mở cơ hội làm việc ở nước ngoài; điểm hiện tại ở đâu.
->     - Mẫu câu: *I decided on it a few months ago, because it would open up opportunities to work abroad.*
+>     - Nói gì: sau khi lên team lead, bạn muốn làm phần thiết kế tổng thể và làm việc trực tiếp với khách.
+>     - Mẫu câu: *Since becoming a team lead, I've realised I enjoy the design side most.*
 > 3. **Kế hoạch đạt mục tiêu:**
->     - Listing: học 1 giờ mỗi tối, thi thử mỗi tuần, ghi âm Speaking mỗi ngày, nhờ bạn chữa Writing → Pick one: kỹ năng yếu nhất (Speaking) và cách bạn luyện.
->     - Mẫu câu: *My weakest skill is speaking, so I record myself every day. / I'm making steady progress.*
+>     - Listing: học thiết kế hệ thống, nhận thêm việc thiết kế, luyện IELTS 1 tiếng mỗi tối, luyện trình bày bằng tiếng Anh → Pick one: IELTS và kỹ năng nói (vì phải trình bày với khách).
+>     - Mẫu câu: *A big part of the role is presenting designs to clients in English.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: lần thi thử Speaking đầu tiên chỉ được 6.0; bạn thất vọng; nghe lại bản ghi và thấy lỗi gì; từ đó thay đổi cách học.
->     - Mẫu câu: *The first time I did a mock speaking test, I only got a six...*
+>     - Nói gì: [một buổi họp bạn phải nhờ BrSE nói giúp hoặc bị khựng khi giải thích bằng tiếng Anh; hoặc lần thi thử Speaking đầu tiên].
+>     - Mẫu câu: *I remember a meeting where I knew exactly what I wanted to say but couldn't get it out in English.*
 > 5. **Ý nghĩa:**
->     - Nói gì: chứng minh có thể học tốt khi đã đi làm; bước đệm sự nghiệp; dự định thi khi nào.
->     - Mẫu câu: *It's not just about the score; it's about proving to myself that... / It's a stepping stone to...*
+>     - Nói gì: chứng minh có thể tiến bộ khi vừa đi làm vừa nuôi con; bước tiếp theo của sự nghiệp.
+>     - Mẫu câu: *It's not just about the job title; it's about proving to myself that... / It's a stepping stone to...*
 >
 > **Mẫu câu nên dùng:** *I've set my sights on...* / *I'm determined to...* / *It's a stepping stone to...* / *I'm making steady progress.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 10 (đạt band IELTS mục tiêu): dùng gần như nguyên bản.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 10 (mục tiêu Solution Architect và IELTS): dùng gần như nguyên bản.
 >
 > **Part 3 · *Is it important for people to set goals?***
 > - Dàn ý: Frame 0 (A.R.E.A)
@@ -221,7 +221,7 @@
 > - and explain how this change will affect your life
 
 - **Dạng khung:** Dạng 7 (Trừu tượng, tương lai)
-- **Câu chuyện có thể dùng:** Câu chuyện 8 (thói quen mới: ngắt kết nối) hoặc câu chuyện 10
+- **Câu chuyện có thể dùng:** Câu chuyện 1 và câu chuyện 5: về đúng giờ để có thời gian với con
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -231,27 +231,27 @@
     - *What changes have taken place in your city recently?* · Frame 1 (C.D.R)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** ngủ sớm, bớt dùng điện thoại buổi tối / hay thức đến 1 giờ lướt mạng / để điện thoại ngoài phòng ngủ, đọc sách / tuần thử nghiệm đầu tiên / tỉnh táo, làm việc hiệu quả hơn
+> **5 từ khóa mẫu (1 phút chuẩn bị):** về đúng giờ hơn để có thời gian với con / mùa release hay về muộn / giao việc tốt hơn cho nhóm, chặn giờ trên lịch / tối con hỏi "sao bố về muộn" / cả nhà vui hơn, nhóm cũng tự chủ hơn
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** thay đổi gì.
->     - Mẫu câu: *A change I'd really like to make is to stop using my phone late at night and go to bed earlier.*
+>     - Mẫu câu: *A change I'd really like to make is to leave work on time more often, so I can spend more evenings with my son.*
 > 2. **Bối cảnh:** vấn đề hiện tại.
->     - Nói gì: thường lướt mạng đến 1 giờ sáng; sáng mệt, uống nhiều cà phê; nhận ra vấn đề khi nào.
->     - Mẫu câu: *At the moment, I often end up scrolling until one in the morning. / It's a bad habit I've fallen into.*
+>     - Nói gì: gần release thường về muộn; là team lead nên hay ôm việc thay vì giao.
+>     - Mẫu câu: *In the run-up to a release, I often get home after he's asleep.*
 > 3. **Kế hoạch thay đổi:**
->     - Listing: để điện thoại ngoài phòng, đặt giờ đi ngủ, đọc sách thay thế, dùng đồng hồ báo thức thường → Pick one: sạc điện thoại ở phòng khách; vì sao cách này hiệu quả.
->     - Mẫu câu: *My plan is to charge my phone in the living room. / The idea is to...*
-> 4. **Khoảnh khắc thử nghiệm:**
->     - Nói gì: tuần đầu thử; hai đêm đầu khó ngủ, muốn lấy điện thoại; ngày thứ ba thức dậy trước báo thức, thấy tỉnh táo.
->     - Mẫu câu: *On the third day, I actually woke up before my alarm.*
-> 5. **Ảnh hưởng tới cuộc sống:**
->     - Nói gì: tỉnh táo, làm việc hiệu quả, có thời gian học buổi sáng, tâm trạng tốt hơn.
->     - Mẫu câu: *It would make a huge difference to... / I think it would make me a lot more productive.*
+>     - Listing: giao việc tốt hơn, chặn giờ về trên lịch, họp ngắn hơn, nói "không" với việc ngoài phạm vi → Pick one: giao việc tốt hơn cho nhóm.
+>     - Mẫu câu: *My plan is to delegate more, which would also help my team grow.*
+> 4. **Khoảnh khắc khiến bạn muốn thay đổi:**
+>     - Nói gì: [một tối con hỏi vì sao bố về muộn, hoặc lỡ một dịp quan trọng của con].
+>     - Mẫu câu: *One evening my son asked me why I always came home so late, and that really hit me.*
+> 5. **Ảnh hưởng:**
+>     - Nói gì: nhiều thời gian gia đình hơn; nhóm tự chủ hơn; bản thân bớt căng thẳng.
+>     - Mẫu câu: *It would make a huge difference to... / Everyone would benefit, including my team.*
 >
 > **Mẫu câu nên dùng:** *I've been meaning to... for a long time.* / *It's a bad habit I've fallen into.* / *The idea is to...* / *It would make a huge difference to...*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 8 (thói quen mới).
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 1 và câu chuyện 5.
 >
 > **Part 3 · *Why do people find it hard to change their habits?***
 > - Dàn ý: Frame 2 (Multi-reason)

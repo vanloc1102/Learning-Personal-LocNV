@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Khung gợi ý xem [[1. Khung trả lời Part 1]]. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi. Khi gặp câu hỏi chủ đề này trong bộ đề mới, thêm link vào đúng câu.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Do you like travelling?
 
@@ -26,7 +26,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I love it, although I don't get to do it as often as I'd like. I'm more of a mountain person: places like Đà Lạt, where it's cool and green, are my favourite. Getting away from the city for a few days is the best way for me to recharge.*
+> *I love it, especially road trips by motorbike. A few years ago I rode around the Mekong Delta, and it's still one of my best memories. With a young son, our trips are a lot more relaxed now, but I'm hoping to take him on a proper road trip when he's older.*
 
 ## 2. Where did you go on your last holiday?
 
@@ -39,15 +39,15 @@
 > **Hướng trả lời:** Kể quá khứ đơn: đi đâu, với ai, làm gì, ấn tượng nhất.
 >
 > **Dàn ý:** Khung 4 (Quá khứ và hiện tại), 3 bước:
-> 1. **Nơi, thời điểm, với ai:** đi đâu, khi nào, đi mấy ngày, cùng ai.
-> 2. **Hoạt động:** làm gì (tham quan, ăn đặc sản, chợ đêm).
-> 3. **Điểm nhớ nhất:** một khoảnh khắc cụ thể (ngắm bình minh), cảm nhận.
+> 1. **Nơi, thời điểm, với ai:** [cần điền theo mục K2], ví dụ về Đà Nẵng dịp hè cùng vợ con.
+> 2. **Hoạt động:** đi biển, thăm ông bà, ăn đặc sản.
+> 3. **Điểm nhớ nhất:** một khoảnh khắc với con.
 >
 > **Mẫu câu nên dùng:** *The last time I went away was...* / *We spent most of our time...* / *The highlight was...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *The last time I went away was a long weekend in Đà Lạt with a few friends. We spent most of our time wandering around the flower gardens and trying street food at the night market. The highlight was watching the sunrise from a hill, even though we had to get up at four.*
+> *The last time we went away was [last summer], when we flew back to Da Nang to see my parents. We spent most mornings at the beach, and the highlight was watching my son try to build a sandcastle with his grandad.*
 
 ## 3. Do you prefer travelling alone or with other people?
 
@@ -68,7 +68,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I'd rather travel with a small group of friends. It's more fun to share experiences, and it works out cheaper because you can split the costs. Travelling alone gives you more freedom, though, and I'd like to try it at least once.*
+> *It's changed over the years. Before I had a family, I loved road trips with a few friends, because it was fun and we could split the costs. These days I travel with my wife and son, which is slower but more meaningful. I've never really travelled alone.*
 
 ## 4. Where would you like to travel in the future?
 
@@ -81,15 +81,15 @@
 > **Hướng trả lời:** Nêu một nơi (Nhật Bản rất hợp vì công ty Nhật), lý do, kế hoạch.
 >
 > **Dàn ý:** Khung 5 (Tương lai), 3 bước:
-> 1. **Nơi muốn đến:** quốc gia, thành phố cụ thể.
-> 2. **Lý do:** nghe kể từ ai, muốn xem gì (văn hóa, mùa thu, đồ ăn).
-> 3. **Kế hoạch:** khi nào đi, tiết kiệm thế nào, đi với ai.
+> 1. **Nơi muốn đến:** [cần điền theo mục K3], ví dụ Nhật Bản.
+> 2. **Lý do:** công ty Nhật, muốn tận mắt thấy văn hóa đồng nghiệp hay kể.
+> 3. **Kế hoạch:** khi nào, đi với ai.
 >
 > **Mẫu câu nên dùng:** *I'd really love to go to...* / *Since I work for a Japanese company,...* / *I'm hoping to go in...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I'd really love to go to Japan. Since I work for a Japanese company, I've heard so much about the culture from my colleagues, and I'd like to see it for myself, especially Kyoto in autumn. I'm hoping to go in the next year or two, once I've saved up enough.*
+> *I'd really love to go to Japan. I work for a Japanese company, so I hear a lot about the culture from my colleagues, and I'd like to see it for myself. Ideally, I'd go with my wife and son in a year or two, maybe in autumn.*
 
 ---
 

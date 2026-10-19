@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Mỗi câu gồm link luyện, khung gợi ý (xem [[1. Khung trả lời Part 1]]) và chỗ ghi dàn ý, bài nói, lỗi tự sửa. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Do you often have free time?
 
@@ -48,7 +48,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I tend to keep things simple. I go for walks in the park near my place, or I watch a film. It helps me recharge after a long week in front of a screen. Just last weekend, I also tried a new café with a friend, which was a nice change.*
+> *To be honest, most of my free time goes to my family these days. But when I get some time to myself, I like to unwind with a video game or an episode of One Piece, and in the evenings I often go for a walk or a run in a small park near my home.*
 
 ## 3. Do you prefer spending free time alone or with others?
 
@@ -69,7 +69,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I need a bit of both, really. After a busy week, I need some time to myself to recharge, so Saturday mornings are usually just me. But I'd get bored if I spent the whole weekend alone, so I usually meet up with friends on Sunday.*
+> *A bit of both, really. Most of my free time is family time, and I love that. But after a busy week, I also need an hour to myself, like a run in the park or a game after my son goes to bed, just to recharge.*
 
 ## 4. Did you have more free time as a child?
 
@@ -103,15 +103,15 @@
 > **Hướng trả lời:** Nêu một sở thích cụ thể, lý do muốn thử, điều đang cản trở hoặc kế hoạch bắt đầu.
 >
 > **Dàn ý:** Khung 5 (Tương lai), 3 bước:
-> 1. **Sở thích muốn thử:** tên hoạt động cụ thể (bơi, nhiếp ảnh, chơi guitar, leo núi).
-> 2. **Lý do:** vì sao hứng thú (sức khỏe, thư giãn, thấy bạn bè làm), lợi ích mong đợi.
-> 3. **Kế hoạch hoặc trở ngại:** khi nào bắt đầu, học ở đâu, điều gì đang cản (thời gian, chi phí, chỗ học).
+> 1. **Sở thích muốn thử:** [cần điền], ví dụ cắm trại cùng gia đình.
+> 2. **Lý do:** gắn với sở thích đi phượt, muốn có hoạt động ngoài trời cho cả nhà.
+> 3. **Kế hoạch hoặc trở ngại:** đợi con lớn hơn, mua dụng cụ, chọn chỗ gần TP.HCM.
 >
 > **Mẫu câu nên dùng:** *I've been meaning to try... for a while.* / *I've always wanted to...* / *The only thing stopping me is...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I've been meaning to try swimming properly for a while. I can only just about stay afloat, and it would be a great way to exercise without hurting my back. The only thing stopping me is finding a pool near my place that isn't packed after work.*
+> *I'd like to try camping with my family. I've always loved road trips, and camping would be a way to get my son outdoors and away from screens. We're waiting until he's a bit older, but I've already started looking at campsites outside the city.*
 
 ---
 

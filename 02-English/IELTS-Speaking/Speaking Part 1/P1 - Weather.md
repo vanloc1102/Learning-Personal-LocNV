@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Khung gợi ý xem [[1. Khung trả lời Part 1]]. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi. Khi gặp câu hỏi chủ đề này trong bộ đề mới, thêm link vào đúng câu.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. What's the weather like where you live?
 

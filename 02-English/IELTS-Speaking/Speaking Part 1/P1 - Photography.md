@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Khung gợi ý xem [[1. Khung trả lời Part 1]]. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi. Khi gặp câu hỏi chủ đề này trong bộ đề mới, thêm link vào đúng câu.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Do you like taking photos?
 
@@ -26,7 +26,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Yes, but only with my phone. I mostly take pictures of landscapes when I travel and, I have to admit, a lot of food. It's a way to remember places, and I like scrolling back through them when I need a bit of motivation to plan my next trip.*
+> *Yes, but only with my phone, and these days most of them are of my son. Before that, I took a lot of landscape photos on my motorbike trips, especially around the Mekong Delta. It's a way to remember moments that pass very quickly.*
 
 ## 2. Do you prefer taking photos of people or of scenery?
 

@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Khung gợi ý xem [[1. Khung trả lời Part 1]]. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi. Khi gặp câu hỏi chủ đề này trong bộ đề mới, thêm link vào đúng câu.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. What do you usually do at weekends?
 
@@ -18,15 +18,15 @@
 > **Hướng trả lời:** Hoạt động điển hình thứ Bảy, Chủ nhật; nhấn mạnh ngắt kết nối công việc.
 >
 > **Dàn ý:** Khung 3 (Tần suất), 3 bước:
-> 1. **Nguyên tắc chung:** cố gắng không làm việc cuối tuần.
-> 2. **Thứ Bảy:** ngủ muộn, gặp bạn, cà phê, xem phim.
-> 3. **Chủ nhật:** việc nhà, chuẩn bị cho tuần mới, học IELTS; lý do sắp xếp như vậy.
+> 1. **Nguyên tắc:** cuối tuần là thời gian gia đình, không xem tin nhắn công việc.
+> 2. **Hoạt động:** đưa con đi công viên, trung tâm thương mại; [hoạt động khác: cần điền].
+> 3. **Thời gian riêng:** một chút học IELTS hoặc chơi game khi con ngủ.
 >
 > **Mẫu câu nên dùng:** *I try to keep my weekends work-free.* / *On Saturdays I usually...* / *Sundays are for...*
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I try to keep my weekends completely work-free. On Saturdays I usually sleep in, catch up with friends over coffee and maybe watch a film. Sundays are for chores and getting ready for the week, plus a bit of IELTS practice.*
+> *Weekends are family time. We usually take our son out somewhere, like a park or a shopping mall, and we often eat out together. I try not to check work messages at all, and I sometimes squeeze in a bit of IELTS practice when he's having his nap.*
 
 ## 2. Did you do the same things at weekends when you were a child?
 
@@ -68,7 +68,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Relaxing ones, definitely. After a hectic week of deadlines, I need time to recharge. But if I do absolutely nothing, I end up feeling a bit guilty by Sunday evening, so I like to plan one small thing, like meeting a friend or trying a new café.*
+> *Relaxing ones, ideally, but with a five-year-old, weekends are never completely quiet. After a hectic week, I just want to slow down, so our weekends are usually simple: a trip to the park, a family meal, and maybe a film together.*
 
 ## 4. Is there anything you'd like to do next weekend?
 
@@ -89,7 +89,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *I'm hoping to go to a new exhibition at the Fine Arts Museum with a friend. I've been meaning to go for ages, but something always comes up. If the weather's good, we might also walk along the riverside afterwards.*
+> *I'm hoping to take my son to [a place: cần điền], since he's been asking to go for weeks. If the weather's good, we might also have a picnic in the park afterwards.*
 
 ---
 

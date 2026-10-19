@@ -5,7 +5,7 @@
 > [!info] Đề Part 2
 > Mỗi đề gồm cue card, link luyện, dạng khung (xem [[1. Khung trả lời Part 2]]) và câu chuyện có thể dùng (xem [[2. Kho câu chuyện Part 2]]). Mỗi đề có thêm 3 câu Part 3 đi kèm. Chuẩn bị 1 phút bằng 5 từ khóa, nói đủ 2 phút.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. Describe a historical building you have been to
 
@@ -19,7 +19,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/4146
 - **Dạng khung:** Dạng 3 (Địa điểm)
-- **Câu chuyện có thể dùng:** Câu chuyện 9 (một chuyến đi)
+- **Câu chuyện có thể dùng:** Câu chuyện 8 (Đà Nẵng và Hội An): Chùa Cầu, phố cổ Hội An
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -29,30 +29,30 @@
     - *How can museums attract more young visitors?* · Frame 5 (P.S.R)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** Bưu điện Trung tâm Sài Gòn / Pháp xây cuối thế kỷ 19 / mái vòm, bản đồ cổ, ảnh Bác Hồ / gửi bưu thiếp cho bạn ở Nhật / quá khứ và hiện tại đan xen
+> **5 từ khóa mẫu (1 phút chuẩn bị):** phố cổ Hội An, cách Đà Nẵng 30 km / về quê dẫn vợ con đi / nhà cổ, Chùa Cầu, hội quán / tối thả đèn hoa đăng trên sông Hoài / tự hào về quê nhà
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** công trình nào, ở đâu.
->     - Nói gì: tên, thành phố, vị trí (ngay trung tâm, cạnh nhà thờ Đức Bà).
->     - Mẫu câu: *I'd like to talk about the Saigon Central Post Office, right in the heart of Ho Chi Minh City.*
+>     - Nói gì: Chùa Cầu hoặc một ngôi nhà cổ ở phố cổ Hội An, gần Đà Nẵng quê bạn.
+>     - Mẫu câu: *I'd like to talk about the Japanese Covered Bridge in Hoi An, an old town about thirty kilometres from my hometown, Da Nang.*
 > 2. **Bối cảnh:** đến khi nào, với ai, vì sao.
->     - Nói gì: dẫn đồng nghiệp Nhật đi tham quan khi họ sang công tác; hoặc đi cùng gia đình; thời tiết hôm đó.
->     - Mẫu câu: *I went there with a Japanese colleague who was visiting our office.*
+>     - Nói gì: đi nhiều lần từ nhỏ; lần nhớ nhất là khi về quê dịp [Tết hoặc hè, xác nhận] và dẫn vợ con đi.
+>     - Mẫu câu: *I've been there many times since I was a kid, but the visit I remember best was when I took my wife and son there [last summer].*
 > 3. **Mô tả công trình:**
->     - Lịch sử: người Pháp xây cuối thế kỷ 19.
->     - Bên ngoài: tường màu vàng, cửa sổ vòm, đồng hồ lớn phía trên.
->     - Listing bên trong: trần vòm cao, bản đồ cổ trên tường, quầy gửi thư bằng gỗ → Pick one: trần vòm và bản đồ cổ; vì sao ấn tượng.
->     - Mẫu câu: *It dates back to... / It was built in the French colonial style. / What struck me most was...*
+>     - Lịch sử: theo truyền thống do cộng đồng thương nhân Nhật Bản xây vào cuối thế kỷ 16; in trên tờ tiền 20.000 đồng.
+>     - Bên ngoài: cầu gỗ có mái che, ngôi đền nhỏ ở giữa; xung quanh là nhà cổ tường vàng, đèn lồng.
+>     - Listing → Pick one: chọn mái ngói và kết cấu gỗ đã đứng hàng trăm năm; vì sao ấn tượng (liên hệ công ty Nhật bạn đang làm).
+>     - Mẫu câu: *It dates back to the late sixteenth century. / It's surprisingly well preserved. / It's like stepping back in time.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: đồng nghiệp mua bưu thiếp, gửi về Nhật từ quầy; ngạc nhiên vì đây vẫn là bưu điện thật đang hoạt động; hai người chụp ảnh dưới trần vòm.
->     - Mẫu câu: *She couldn't believe it was still a working post office.*
-> 5. **Cảm nhận và ý nghĩa:**
->     - Nói gì: tự hào, nơi lưu giữ lịch sử giữa thành phố hiện đại; khuyên du khách đến buổi sáng sớm để tránh đông.
->     - Mẫu câu: *It's like stepping back in time. / It's a reminder that...*
+>     - Nói gì: buổi tối đèn lồng thắp sáng, cả nhà thả đèn hoa đăng trên sông Hoài; con trai hỏi gì; bạn kể cho con nghe chuyện hồi nhỏ.
+>     - Mẫu câu: *When the lanterns came on, my son just stood there staring...*
+> 5. **Ý nghĩa:**
+>     - Nói gì: tự hào về quê; nơi lưu giữ lịch sử giữa du lịch phát triển; khuyên khách nên đến buổi sáng sớm để tránh đông.
+>     - Mẫu câu: *It makes me proud of where I come from. / If you go, go early in the morning before the crowds arrive.*
 >
 > **Mẫu câu nên dùng:** *It dates back to...* / *It was built in the... style.* / *It's surprisingly well preserved.* / *It's like stepping back in time.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 9 (chuyến đi). Đổi thành Văn Miếu, Hoàng thành Huế nếu bạn từng đến.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 8 (Đà Nẵng và Hội An). Dùng lại cho đề *a tourist attraction you would recommend*.
 >
 > **Part 3 · *Who should pay to maintain historical buildings?***
 > - Dàn ý: Frame 6 (Partly agree)
@@ -90,7 +90,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/5834
 - **Dạng khung:** Dạng 3 (Địa điểm)
-- **Câu chuyện có thể dùng:** Câu chuyện 2 (công viên gần nhà)
+- **Câu chuyện có thể dùng:** Câu chuyện 2 (công viên nhỏ gần nhà)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -100,30 +100,30 @@
     - *How are parks today different from parks in the past?* · Frame 1 (C.D.R)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** công viên gần nhà / buổi tối sau giờ làm / hồ, cây cao, đường chạy / buổi tối sau release căng thẳng / nơi "sạc pin"
+> **5 từ khóa mẫu (1 phút chuẩn bị):** công viên nhỏ không tên gần nhà / chuyển đến khu này [năm] / cây, đường đi bộ, chỗ trẻ con chơi / tối dẫn con ra chơi, bạn chạy vài vòng / nơi nạp năng lượng
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** công viên nào.
->     - Nói gì: tên hoặc mô tả (công viên nhỏ gần căn hộ), cách nhà bao xa.
->     - Mẫu câu: *I'd like to describe a small park near my apartment, which I visit almost every evening.*
+>     - Nói gì: công viên nhỏ, không có tên, cách nhà vài phút đi bộ, ở phường [Tân Sơn, xác nhận].
+>     - Mẫu câu: *I'd like to describe a small park near my home. It doesn't even have a name, but it's my favourite place in the neighbourhood.*
 > 2. **Bối cảnh:** phát hiện khi nào, đi lúc nào.
->     - Nói gì: tìm thấy khi chuyển đến khu này khoảng ba năm trước; thường đi sau giờ làm, khoảng 7 giờ tối.
->     - Mẫu câu: *I found it when I moved to this area about three years ago.*
+>     - Nói gì: từ khi thuê nhà ở khu này [năm]; thường đi buổi tối sau giờ làm, có khi cùng vợ con.
+>     - Mẫu câu: *I found it when we moved into the area, and now I go there most evenings.*
 > 3. **Mô tả công viên:**
->     - Tổng quan: rộng hay nhỏ, nhiều cây cao, không khí mát hơn đường phố.
->     - Listing: hồ nước, hàng cây, đường chạy bộ, khu tập thể dục ngoài trời → Pick one: đường đi bộ quanh hồ.
->     - Người ở đó: cụ già tập dưỡng sinh, trẻ con chạy chơi, người chạy bộ, người dắt chó.
->     - Mẫu câu: *It's an oasis in the middle of the city. / There's a path that goes all the way around the lake...*
+>     - Tổng quan: nhỏ, nhiều cây, mát hơn đường phố.
+>     - Listing: đường đi bộ, ghế đá, khu dụng cụ tập, chỗ trẻ con chơi [xác nhận] → Pick one: đường đi bộ vòng quanh.
+>     - Người ở đó: người già tập thể dục, trẻ con chơi, người chạy bộ.
+>     - Mẫu câu: *It's a little oasis in the middle of the city. / There's a path that goes all the way round it.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: một buổi tối sau ngày release căng thẳng; bạn đi vài vòng, gió từ hồ, đèn bật, nghe tiếng trẻ con; thấy đầu óc nhẹ nhõm.
+>     - Nói gì: một tối sau ngày release căng thẳng; con chạy trước, bạn chạy theo; gió mát, đèn bật; đầu óc nhẹ hẳn.
 >     - Mẫu câu: *I remember one evening after a really stressful release...*
 > 5. **Ý nghĩa:**
->     - Nói gì: nơi nạp năng lượng, thói quen tốt; mong thành phố có thêm công viên như vậy.
->     - Mẫu câu: *It's become my go-to place to recharge. / It helps me clear my head.*
+>     - Nói gì: nơi thư giãn của cả nhà; ước thành phố có thêm nhiều công viên nhỏ như vậy.
+>     - Mẫu câu: *It's become my go-to place to recharge.*
 >
 > **Mẫu câu nên dùng:** *It's an oasis in the middle of the city.* / *There's plenty of greenery.* / *It's always buzzing with...* / *It helps me clear my head.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 2 (công viên gần nhà): dùng gần như nguyên bản.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 2 (công viên nhỏ gần nhà): dùng gần như nguyên bản.
 >
 > **Part 3 · *Why are parks important in cities?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -160,7 +160,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/4149
 - **Dạng khung:** Dạng 3 (Địa điểm) kết hợp Dạng 4 (Sự kiện, trải nghiệm)
-- **Câu chuyện có thể dùng:** Câu chuyện 6 (một nơi học, làm việc quen thuộc)
+- **Câu chuyện có thể dùng:** Góc học ở nhà buổi tối (mục G trong hồ sơ)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -170,28 +170,28 @@
     - *What can schools do to help students concentrate?* · Frame 5 (P.S.R)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** quán cà phê có cây gần nhà / sáng thứ Bảy / góc cửa sổ, nhạc nhỏ / buổi luyện viết Task 2 đầu tiên trọn 40 phút / yên tĩnh nhưng không cô đơn
+> **5 từ khóa mẫu (1 phút chuẩn bị):** góc bàn làm việc ở nhà / học IELTS 1 tiếng mỗi tối / sau khi con ngủ, nhà yên tĩnh / buổi viết trọn bài Task 2 trong 40 phút / tách biệt giờ làm và giờ học
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** nơi nào.
->     - Nói gì: quán cà phê nhỏ gần nhà (tên nếu có), dùng để học IELTS.
->     - Mẫu câu: *The place I want to talk about is a small café near my apartment where I study for IELTS.*
-> 2. **Bối cảnh:** vì sao cần một nơi khác, tìm thấy khi nào.
->     - Nói gì: ở nhà dễ nằm lên giường, xem điện thoại; tình cờ đi ngang thấy quán; đi vào sáng thứ Bảy.
->     - Mẫu câu: *At home I always end up lying on the bed, so I needed somewhere else.*
+>     - Nói gì: góc bàn làm việc trên tầng hai của nhà [xác nhận], nơi bạn học IELTS mỗi tối.
+>     - Mẫu câu: *The place I want to talk about is a small desk in a corner upstairs at home, where I study for IELTS.*
+> 2. **Bối cảnh:** vì sao chọn chỗ này.
+>     - Nói gì: ngày thường đi làm, cuối tuần dành cho gia đình, nên chỉ có buổi tối; ra quán thì mất thời gian đi lại.
+>     - Mẫu câu: *With a full-time job and a young son, my evenings are the only time I can study.*
 > 3. **Mô tả nơi đó:**
->     - Listing: nhiều cây xanh, ánh sáng tự nhiên, nhạc nhỏ, ổ cắm, wifi ổn định → Pick one: góc bàn cạnh cửa sổ quen thuộc; mô tả bàn ghế, tầm nhìn ra đường.
->     - Mẫu câu: *My favourite spot is a corner table by the window... / It's quiet enough to concentrate, but not so quiet that...*
+>     - Listing: bàn nhỏ cạnh cửa sổ, đèn bàn, tai nghe, sổ ghi lỗi, điện thoại để ở tầng dưới → Pick one: thói quen để điện thoại ở tầng dưới.
+>     - Mẫu câu: *It's quiet enough to concentrate. / I leave my phone downstairs so I can't get distracted.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: lần đầu viết xong bài Task 2 trong 40 phút không bị gián đoạn; bạn hẹn giờ, viết, xong thì thở phào, tự thưởng một ly cà phê.
->     - Mẫu câu: *The first time I managed to...*
+>     - Nói gì: lần đầu viết xong một bài Task 2 trong 40 phút không bị gián đoạn; hẹn giờ, viết, xong thì thở phào.
+>     - Mẫu câu: *The first time I managed to finish a whole essay in forty minutes...*
 > 5. **Vì sao dễ học:**
->     - Nói gì: yên tĩnh nhưng không cô đơn, thấy người khác làm việc nên có động lực; tách biệt không gian nghỉ và học; đã thành thói quen cuối tuần.
->     - Mẫu câu: *It puts me in the right mindset. / Being around other people working quietly somehow keeps me focused.*
+>     - Nói gì: chỗ cố định nên vừa ngồi xuống là vào trạng thái học; tách biệt với chỗ làm việc ban ngày.
+>     - Mẫu câu: *As soon as I sit down there, I'm in study mode.*
 >
 > **Mẫu câu nên dùng:** *It's quiet enough to concentrate, but not so quiet that...* / *I can't get distracted by...* / *It's become my study spot.* / *It puts me in the right mindset.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 6 (một nơi học, làm việc quen thuộc).
+> **Bẻ lái từ kho câu chuyện:** Liên quan mục G và B trong [[0. Hồ sơ cá nhân khi nói]]. Nếu bạn thật sự học ở quán cà phê, đổi lại theo thực tế.
 >
 > **Part 3 · *Is it better to study at home or in a library?***
 > - Dàn ý: Frame 8 (It depends)
@@ -228,7 +228,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/5483
 - **Dạng khung:** Dạng 3 (Địa điểm) kết hợp Dạng 5 (Hoạt động, thói quen)
-- **Câu chuyện có thể dùng:** Câu chuyện 2 (công viên gần nhà)
+- **Câu chuyện có thể dùng:** Câu chuyện 2 (công viên nhỏ gần nhà)
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -238,29 +238,28 @@
     - *Should employers help their staff to relax?* · Frame 3 (Two-sided)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** công viên gần nhà / sau giờ làm, khoảng 7 giờ tối / đi vài vòng hồ, nghe podcast / tối sau ngày họp liên tục / tắt đầu óc
+> **5 từ khóa mẫu (1 phút chuẩn bị):** công viên nhỏ gần nhà / buổi tối sau giờ làm / đi bộ hoặc chạy vài vòng, không cầm điện thoại / tối sau ngày họp liên tục với phía Nhật / tắt hẳn đầu óc
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** nơi nào.
->     - Nói gì: công viên gần căn hộ; vì sao chọn nơi này để nói.
->     - Mẫu câu: *The place I go to relax is a park near my apartment.*
+>     - Mẫu câu: *The place I go to relax is a small park near my home.*
 > 2. **Bối cảnh:** khi nào đi, thường xuyên ra sao.
->     - Nói gì: buổi tối sau giờ làm, 4–5 lần một tuần; đi bộ từ nhà mất vài phút.
+>     - Nói gì: buổi tối sau giờ làm, vài lần mỗi tuần; đi bộ từ nhà mất vài phút.
 >     - Mẫu câu: *I usually go in the evening, after I get home from work.*
 > 3. **Mô tả và hoạt động:**
 >     - Không khí, âm thanh, ánh sáng buổi tối; người xung quanh.
->     - Listing hoạt động: đi bộ, ngồi ghế đá, xem người khác tập, nghe podcast → Pick one: đi bộ quanh hồ; mô tả cảm giác.
->     - Mẫu câu: *I usually walk a couple of laps around the lake... / I can let my mind wander.*
+>     - Listing: đi bộ, chạy chậm, ngồi ghế đá, nhìn con chơi → Pick one: chạy vài vòng rồi ngồi nghỉ.
+>     - Mẫu câu: *I usually do a few laps and then just sit for a while. / I can let my mind wander.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: tối sau một ngày họp liên tục; bạn ngồi ngắm mặt hồ, tắt điện thoại, nghe gió, dần thấy bình tĩnh lại.
+>     - Nói gì: tối sau một ngày họp liên tục; bạn tắt điện thoại, chạy vài vòng, thấy đầu óc dần nhẹ đi.
 >     - Mẫu câu: *One evening that stands out was...*
 > 5. **Vì sao thư giãn:**
->     - Nói gì: thoát khỏi màn hình, không khí trong lành, nhịp chậm; khuyên ai cũng nên có một nơi như vậy.
+>     - Nói gì: rời màn hình, không khí trong lành, nhịp chậm.
 >     - Mẫu câu: *It's my little escape. / I always come back feeling refreshed.*
 >
 > **Mẫu câu nên dùng:** *It's my little escape.* / *I can let my mind wander.* / *The hustle and bustle fades away.* / *I always come back feeling refreshed.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 2. Có thể dùng chung dàn ý với đề park or garden, đổi trọng tâm khối 3 sang hoạt động thư giãn.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 2. Dùng chung dàn ý với đề *park or garden*, đổi trọng tâm khối 3 sang hoạt động thư giãn.
 >
 > **Part 3 · *Why do people find it hard to relax nowadays?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -297,7 +296,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/4150
 - **Dạng khung:** Dạng 3 (Địa điểm)
-- **Câu chuyện có thể dùng:** Câu chuyện 9 (một chuyến đi) hoặc giờ cao điểm ở Thành phố Hồ Chí Minh
+- **Câu chuyện có thể dùng:** Đoạn đường 40 phút đi làm mỗi ngày ở Thành phố Hồ Chí Minh
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -328,7 +327,7 @@
 >
 > **Mẫu câu nên dùng:** *The air was thick with...* / *You could barely see the buildings across the street.* / *My eyes were stinging.* / *It's a wake-up call.*
 >
-> **Bẻ lái từ kho câu chuyện:** Không cần đi xa: dùng nơi bạn đi qua hằng ngày. Nếu từng đến Hà Nội mùa đông, có thể đổi sang Hà Nội.
+> **Bẻ lái từ kho câu chuyện:** Không cần đi xa: dùng đoạn đường 40 phút đi làm mỗi ngày (mục D7 trong hồ sơ). Nếu từng đến Hà Nội mùa đông, có thể đổi sang Hà Nội.
 >
 > **Part 3 · *What are the main causes of air pollution in cities?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -366,7 +365,7 @@
 
 - **Link luyện:** https://e-learning.youpass.vn/practice/speaking-part-2/4151
 - **Dạng khung:** Dạng 3 (Địa điểm)
-- **Câu chuyện có thể dùng:** Câu chuyện 9 (một chuyến đi)
+- **Câu chuyện có thể dùng:** Câu chuyện 7 (chuyến phượt miền Tây): một cồn nhỏ ở Cần Thơ
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -376,29 +375,29 @@
     - *How could the government promote lesser-known places?* · Frame 5 (P.S.R)
 
 > [!tip]- Gợi ý triển khai (tự làm trước rồi mới mở)
-> **5 từ khóa mẫu (1 phút chuẩn bị):** Măng Đen, Kon Tum / "Đà Lạt thứ hai" / rừng thông, hồ, thác / đi lạc trong sương sớm / yên tĩnh, chưa thương mại hóa
+> **5 từ khóa mẫu (1 phút chuẩn bị):** cồn [tên] ở Cần Thơ / chuyến phượt miền Tây bằng xe máy / vườn trái cây, nhà dân, kênh rạch / bữa cơm với gia đình chủ nhà / yên bình, chưa đông khách
 >
 > **Dàn ý 5 khối:**
 > 1. **Mở đề:** nơi nào, ở đâu.
->     - Nói gì: tên (Măng Đen), vùng (Tây Nguyên), biệt danh ("Đà Lạt thứ hai").
->     - Mẫu câu: *I'd like to talk about Măng Đen, a small town in the Central Highlands.*
-> 2. **Bối cảnh:** biết qua ai, đi khi nào, với ai.
->     - Nói gì: người bạn mê đi bộ đường dài giới thiệu; đi năm ngoái cùng nhóm bạn; di chuyển bằng gì, mất bao lâu.
->     - Mẫu câu: *A friend who's into hiking recommended it, and we went there last year.*
+>     - Nói gì: một cồn (cù lao) nhỏ trên sông Hậu ở Cần Thơ [tên thật, xác nhận], ít khách so với chợ nổi Cái Răng.
+>     - Mẫu câu: *I'd like to talk about a small island on the Hau River in Can Tho, in the Mekong Delta.*
+> 2. **Bối cảnh:** đi khi nào, với ai, vì sao.
+>     - Nói gì: trong chuyến phượt miền Tây bằng xe máy [năm, đi với ai: cần điền]; được người dân giới thiệu.
+>     - Mẫu câu: *I came across it on a motorbike trip around the Mekong Delta a few years ago.*
 > 3. **Mô tả nơi đó:**
->     - Tổng quan: khí hậu mát quanh năm, thị trấn nhỏ, ít khách.
->     - Listing: rừng thông, hồ, thác nước, cà phê địa phương → Pick one: buổi sáng sương mù trên hồ; mô tả màu sắc, âm thanh, nhiệt độ.
->     - Mẫu câu: *What makes it special is... / It's a hidden gem.*
+>     - Tổng quan: đi đò qua sông, đường nhỏ ven kênh, vườn trái cây, nhà dân.
+>     - Listing → Pick one: vườn trái cây ăn tại chỗ, đi xuồng trong kênh, bữa cơm với gia đình chủ nhà → chọn bữa cơm.
+>     - Mẫu câu: *What makes it special is how genuine it feels. / It's a hidden gem.*
 > 4. **Khoảnh khắc cụ thể:**
->     - Nói gì: 6 giờ sáng đi bộ quanh hồ trong sương, gần như không gặp ai, chỉ nghe tiếng chim; uống cà phê ấm ven hồ.
->     - Mẫu câu: *I remember walking around the lake at six in the morning...*
+>     - Nói gì: [khoảnh khắc thật: bữa cơm với cá kho, canh chua; chủ nhà kể chuyện; hoặc đi xuồng lúc hoàng hôn].
+>     - Mẫu câu: *I remember sitting down to lunch with the family who lived there...*
 > 5. **Vì sao ít người biết và ý nghĩa:**
->     - Nói gì: đường xa, ít dịch vụ, chưa được quảng bá; mong nơi này giữ được nét hoang sơ; khuyên ai thích yên tĩnh nên đến.
->     - Mẫu câu: *It's off the beaten track. / It hasn't been spoilt by mass tourism. / I hope it stays that way.*
+>     - Nói gì: khách thường chỉ đi chợ nổi rồi về; mong nơi này giữ được nét bình yên; muốn đưa con đến khi con lớn.
+>     - Mẫu câu: *It's off the beaten track. / I hope it stays that way. / I'd love to take my son there when he's older.*
 >
 > **Mẫu câu nên dùng:** *It's a hidden gem.* / *It's off the beaten track.* / *It hasn't been spoilt by mass tourism.* / *The air is so fresh.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 9 (một chuyến đi). Đổi tên nơi cho đúng nơi bạn từng đến.
+> **Bẻ lái từ kho câu chuyện:** Câu chuyện 7 (chuyến phượt miền Tây). Điền tên nơi và khoảnh khắc thật theo mục K1, K4 trong hồ sơ.
 >
 > **Part 3 · *Why do most tourists prefer famous places?***
 > - Dàn ý: Frame 2 (Multi-reason)
@@ -435,7 +434,7 @@
 > - and explain why you like it
 
 - **Dạng khung:** Dạng 3 (Địa điểm)
-- **Câu chuyện có thể dùng:** Câu chuyện 6 (một nơi học, làm việc quen thuộc) hoặc một quán ăn quen gần công ty
+- **Câu chuyện có thể dùng:** Quán thật theo mục H3 trong hồ sơ; khoảnh khắc lấy từ câu chuyện 1
 - **5 từ khóa (1 phút chuẩn bị):** 
 - **Bài nói của tôi:** 
 - **Tự sửa:** 
@@ -468,7 +467,7 @@
 >
 > **Mẫu câu nên dùng:** *It's a hole-in-the-wall place.* / *The food is to die for.* / *It's great value for money.* / *She always remembers my order.*
 >
-> **Bẻ lái từ kho câu chuyện:** Câu chuyện 6 hoặc câu chuyện 1 (dùng khoảnh khắc ăn mừng sau release).
+> **Bẻ lái từ kho câu chuyện:** Quán ở đây là ví dụ; thay bằng quán thật theo mục H3 trong hồ sơ. Khoảnh khắc có thể lấy từ câu chuyện 1 (ăn mừng sau release cùng nhóm).
 >
 > **Part 3 · *Why do people like eating out?***
 > - Dàn ý: Frame 2 (Multi-reason)

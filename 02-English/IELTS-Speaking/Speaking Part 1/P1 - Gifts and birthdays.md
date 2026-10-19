@@ -5,7 +5,7 @@
 > [!info] Câu hỏi Part 1
 > Câu hỏi phổ biến của chủ đề này, chưa có link luyện. Khung gợi ý xem [[1. Khung trả lời Part 1]]. Part 1 chỉ cần **2–4 câu, khoảng 20–30 giây** cho mỗi câu hỏi. Khi gặp câu hỏi chủ đề này trong bộ đề mới, thêm link vào đúng câu.
 > 
-> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Bài mẫu dùng chi tiết giả định theo bối cảnh của bạn; khi nói, thay bằng sự thật.
+> **Gợi ý triển khai** nằm trong callout ẩn dưới mỗi câu: tự trả lời và ghi âm trước, rồi mới mở để đối chiếu. Chi tiết lõi trong bài mẫu (nghề, quê, gia đình, nhà ở) theo [[0. Hồ sơ cá nhân khi nói]]; chi tiết nhỏ (món ăn, ca sĩ, cuốn sách...) và ô [cần điền] là ví dụ, thay bằng câu trả lời của bạn ở mục 7 hồ sơ.
 
 ## 1. How do you usually celebrate your birthday?
 
@@ -26,7 +26,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Nothing too fancy. I usually just go out for dinner with a few close friends, and my family calls me in the evening. As I get older, birthdays matter less to me, so a quiet meal is honestly all I want.*
+> *Nothing too fancy. My wife usually cooks something special, my son helps blow out the candles, and my parents call from Da Nang. As I get older, a quiet evening at home with my family is all I want.*
 
 ## 2. Do you like receiving gifts?
 
@@ -47,7 +47,7 @@
 >
 > **Bài mẫu (khoảng band 7):**
 >
-> *Who doesn't? But I appreciate thoughtful gifts more than expensive ones. The best one I've ever received was a handwritten notebook from my sister with all our childhood photos stuck inside. It probably cost nothing, but it meant a lot.*
+> *Who doesn't? But I appreciate thoughtful gifts more than expensive ones. The best one I've had recently was a drawing my son made of the three of us. It probably took him ten minutes, but it's still on my desk.*
 
 ## 3. What kinds of gifts do you usually give?
 
